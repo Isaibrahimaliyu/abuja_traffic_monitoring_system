@@ -1,0 +1,1057 @@
+timestamp,date,time,day_of_week,hour,is_weekend,is_rush_hour,route_name,origin,destination,distance_km,duration_minutes,duration_in_traffic_minutes,delay_minutes,avg_speed_kmh,traffic_status,traffic_multiplier
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,28.86,2.71,50.54,No Traffic,1.1
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,44.43,0.37,47.88,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kuje to Central,Kuje,Central Area,40.56,35.02,36.86,1.84,66.02,No Traffic,1.05
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Airport to Maitama,Airport Road,Maitama,41.36,45.21,44.31,-0.9,56.0,No Traffic,0.98
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,8.05,0.52,30.15,No Traffic,1.07
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,38.57,-4.51,85.71,No Traffic,0.9
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.48,0.42,30.28,No Traffic,1.06
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.14,0.25,43.92,No Traffic,1.05
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.86,0.64,61.65,No Traffic,1.08
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.22,0.19,60.91,No Traffic,1.03
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,CBD to Maitama,CBD,Maitama,4.0,5.75,6.68,0.92,35.96,No Traffic,1.16
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Garki to CBD,Garki,CBD,3.83,6.65,6.86,0.21,33.46,No Traffic,1.03
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.1,0.14,43.67,No Traffic,1.04
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.82,-0.07,52.67,No Traffic,0.98
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Area 3 to CBD,Area 3,CBD,3.56,7.08,8.23,1.16,25.93,No Traffic,1.16
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Garki to Wuse,Garki,Wuse,5.26,6.24,6.17,-0.07,51.15,No Traffic,0.99
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,16.96,-0.41,56.36,No Traffic,0.98
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.56,0.75,39.94,No Traffic,1.06
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,13.49,-0.83,63.33,No Traffic,0.94
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Dutse to CBD,Dutse,CBD,8.29,9.25,11.45,2.2,43.41,No Traffic,1.24
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.4,-0.15,60.38,No Traffic,0.97
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,13.93,0.26,56.33,No Traffic,1.02
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Jabi to CBD,Jabi,CBD,5.08,8.63,9.02,0.39,33.81,No Traffic,1.04
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Utako to CBD,Utako,CBD,8.36,11.56,10.83,-0.74,46.35,No Traffic,0.94
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Utako to Jabi,Utako,Jabi,4.62,7.79,8.16,0.37,33.98,No Traffic,1.05
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Wuye to Jabi,Wuye,Jabi,7.59,9.03,8.43,-0.6,54.0,No Traffic,0.93
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Utako to Wuse,Utako,Wuse,4.69,7.31,7.19,-0.12,39.17,No Traffic,0.98
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Jabi to Wuse,Jabi,Wuse,2.23,3.67,4.3,0.63,31.12,No Traffic,1.17
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Nyanya to Karu,Nyanya,Karu,10.18,15.65,16.67,1.02,36.66,No Traffic,1.06
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Karu to CBD,Karu,CBD,25.99,22.82,27.09,4.27,57.56,No Traffic,1.19
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Karu to Garki,Karu,Garki,28.08,21.98,22.51,0.53,74.87,No Traffic,1.02
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Nyanya to Garki,Nyanya,Garki,26.4,25.3,25.56,0.25,61.99,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,39.58,7.39,37.07,Light Traffic,1.23
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,53.88,-4.03,39.35,No Traffic,0.93
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Airport to CBD,Airport Road,CBD,38.44,44.76,48.76,4.01,47.29,No Traffic,1.09
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lugbe to CBD,Lugbe,CBD,35.83,46.32,45.24,-1.07,47.52,No Traffic,0.98
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lugbe to Garki,Lugbe,Garki,36.08,43.85,46.85,3.0,46.21,No Traffic,1.07
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.51,-1.0,56.65,No Traffic,0.96
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,46.43,1.09,71.67,No Traffic,1.02
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,39.84,6.82,29.98,Light Traffic,1.21
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.64,-0.73,58.85,No Traffic,0.9
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.69,0.69,40.05,No Traffic,1.17
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.77,0.12,49.59,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gudu to Garki,Gudu,Garki,8.8,8.73,9.65,0.91,54.71,No Traffic,1.1
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,13.26,1.68,42.09,No Traffic,1.14
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Maraba to CBD,Maraba,CBD,41.72,41.16,43.13,1.97,58.04,No Traffic,1.05
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Karshi to Kuje,Karshi,Kuje,89.9,97.14,90.53,-6.6,59.58,No Traffic,0.93
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,43.69,-4.66,41.52,No Traffic,0.9
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Life Camp to Utako,Life Camp,Utako,7.59,9.79,9.88,0.09,46.08,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,17.0,2.68,53.51,No Traffic,1.19
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,25.12,1.17,37.26,No Traffic,1.05
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,15.46,0.28,43.85,No Traffic,1.02
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.48,1.25,31.1,No Traffic,1.07
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Bwari to CBD,Bwari,CBD,31.28,27.24,26.23,-1.01,71.56,No Traffic,0.96
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.4,-0.24,53.48,No Traffic,0.97
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.42,-0.06,52.41,No Traffic,0.99
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Katampe to Jabi,Katampe,Jabi,10.29,11.64,12.07,0.43,51.13,No Traffic,1.04
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Berger to Garki,Berger,Garki,6.65,6.33,5.96,-0.37,66.94,No Traffic,0.94
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kado to Berger,Kado,Berger,7.22,6.98,6.55,-0.42,66.06,No Traffic,0.94
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,27.15,1.59,56.53,No Traffic,1.06
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Maitama to Garki,Maitama,Garki,8.59,8.18,7.29,-0.88,70.66,No Traffic,0.89
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,50.3,0.48,41.61,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Wuse to Jabi,Wuse,Jabi,2.61,5.29,6.25,0.96,25.07,No Traffic,1.18
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.88,-0.01,60.88,No Traffic,1.0
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Wuse to Utako,Wuse,Utako,4.54,6.9,8.07,1.17,33.79,No Traffic,1.17
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Wuse to Garki,Wuse,Garki,6.0,7.09,8.1,1.01,44.46,No Traffic,1.14
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Maitama to Asokoro,Maitama,Asokoro,6.87,6.51,6.59,0.08,62.47,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Maitama to Jabi,Maitama,Jabi,6.47,9.1,9.68,0.58,40.09,No Traffic,1.06
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Asokoro to CBD,Asokoro,CBD,6.42,8.14,9.08,0.94,42.42,No Traffic,1.12
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Asokoro to Garki,Asokoro,Garki,8.52,7.3,8.69,1.39,58.84,No Traffic,1.19
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwarinpa to Dutse,Gwarinpa,Dutse,7.75,9.17,10.52,1.35,44.17,No Traffic,1.15
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Gwarinpa to Kubwa,Gwarinpa,Kubwa,15.01,15.14,16.73,1.58,53.85,No Traffic,1.1
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kubwa to Dutse,Kubwa,Dutse,8.8,8.92,9.79,0.86,53.93,No Traffic,1.1
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kubwa to Wuse,Kubwa,Wuse,3.62,4.79,5.4,0.61,40.17,No Traffic,1.13
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Nyanya to Maraba,Nyanya,Maraba,24.45,33.77,37.78,4.01,38.84,No Traffic,1.12
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Karu to Maraba,Karu,Maraba,10.35,24.54,30.22,5.68,20.56,Light Traffic,1.23
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lugbe to Lokogoma,Lugbe,Lokogoma,25.58,38.99,39.35,0.36,39.0,No Traffic,1.01
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Lugbe to Apo,Lugbe,Apo,23.11,36.97,35.41,-1.55,39.16,No Traffic,0.96
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.63,-0.87,56.32,No Traffic,0.96
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,33.94,0.92,35.2,No Traffic,1.03
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Mpape to Bwari,Mpape,Bwari,15.53,17.7,15.6,-2.1,59.74,No Traffic,0.88
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Life Camp to Gwarinpa,Life Camp,Gwarinpa,4.86,7.81,9.49,1.68,30.71,No Traffic,1.22
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Area 1 to Area 2,Area 1,Area 2,1.29,2.24,2.39,0.15,32.31,No Traffic,1.07
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Area 2 to Area 3,Area 2,Area 3,3.07,3.54,3.52,-0.03,52.28,No Traffic,0.99
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Garki to Area 1,Garki,Area 1,2.46,3.49,3.43,-0.06,42.95,No Traffic,0.98
+2025-12-24 00:45:47,2025-12-24,00:45:47,Wednesday,0.0,0.0,0.0,Utako to Wuye,Utako,Wuye,6.03,9.19,10.01,0.82,36.12,No Traffic,1.09
+2025-12-24 01:06:11,Airport to Maitama,Airport Road,Maitama,41.36,45.21,43.92,-1.28,No Traffic,0.97,,,,,,,
+2025-12-24 01:06:11,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,6.97,-0.55,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:11,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,25.21,-0.93,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:11,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,46.23,2.18,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:11,Kuje to Central,Kuje,Central Area,40.56,35.02,35.68,0.66,No Traffic,1.02,,,,,,,
+2025-12-24 01:06:11,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,46.33,3.25,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.02,-0.04,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:11,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.9,0.0,No Traffic,1.0,,,,,,,
+2025-12-24 01:06:11,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.87,0.66,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.46,-0.58,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,CBD to Maitama,CBD,Maitama,4.0,5.75,5.65,-0.1,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:11,Garki to CBD,Garki,CBD,3.83,6.65,6.02,-0.63,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:11,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.02,0.05,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.92,0.03,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.76,-0.31,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:11,Garki to Wuse,Garki,Wuse,5.26,6.24,5.73,-0.51,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,18.72,1.35,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.17,0.36,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:11,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.71,0.39,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:11,Dutse to CBD,Dutse,CBD,8.29,9.25,9.54,0.29,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:11,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.78,0.22,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:11,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,14.59,0.92,No Traffic,1.07,,,,,,,
+2025-12-24 01:06:11,Jabi to CBD,Jabi,CBD,5.08,8.63,8.54,-0.1,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:11,Utako to Jabi,Utako,Jabi,4.62,7.79,7.88,0.09,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Utako to CBD,Utako,CBD,8.36,11.56,10.43,-1.14,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:11,Wuye to Jabi,Wuye,Jabi,7.59,9.03,8.55,-0.48,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:11,Utako to Wuse,Utako,Wuse,4.69,7.31,7.37,0.07,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Jabi to Wuse,Jabi,Wuse,2.23,3.67,4.0,0.33,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:11,Nyanya to Karu,Nyanya,Karu,10.18,15.65,14.38,-1.26,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Karu to CBD,Karu,CBD,25.99,22.82,21.21,-1.61,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:11,Karu to Garki,Karu,Garki,28.08,21.98,22.09,0.11,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Nyanya to Garki,Nyanya,Garki,26.4,25.3,25.1,-0.21,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:11,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,31.19,-1.01,No Traffic,0.97,,,,,,,
+2025-12-24 01:06:11,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,56.91,-0.99,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:11,Airport to CBD,Airport Road,CBD,38.44,44.76,47.15,2.4,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:11,Lugbe to CBD,Lugbe,CBD,35.83,46.32,42.38,-3.93,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Lugbe to Garki,Lugbe,Garki,36.08,43.85,46.97,3.12,No Traffic,1.07,,,,,,,
+2025-12-24 01:06:11,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.98,-0.53,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:11,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,41.26,-4.08,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:11,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,35.7,2.68,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.69,-0.68,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:11,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.33,0.33,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Gudu to Garki,Gudu,Garki,8.8,8.73,8.24,-0.5,No Traffic,0.94,,,,,,,
+2025-12-24 01:06:11,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.87,0.21,No Traffic,1.02,,,,,,,
+2025-12-24 01:06:11,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,12.05,0.47,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:11,Maraba to CBD,Maraba,CBD,41.72,41.16,37.99,-3.17,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Karshi to Kuje,Karshi,Kuje,89.9,97.14,94.39,-2.74,No Traffic,0.97,,,,,,,
+2025-12-24 01:06:11,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,49.37,1.02,No Traffic,1.02,,,,,,,
+2025-12-24 01:06:11,Life Camp to Utako,Life Camp,Utako,7.59,9.79,9.69,-0.1,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:11,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.57,1.25,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:11,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,21.9,-2.04,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:11,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,15.94,0.76,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:11,Bwari to Mpape,Bwari,Mpape,10.62,19.23,18.61,-0.62,No Traffic,0.97,,,,,,,
+2025-12-24 01:06:11,Bwari to CBD,Bwari,CBD,31.28,27.24,28.64,1.4,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:11,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.35,-0.29,No Traffic,0.97,,,,,,,
+2025-12-24 01:06:11,Jahi to Wuse,Jahi,Wuse,5.61,6.48,7.07,0.59,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:11,Katampe to Jabi,Katampe,Jabi,10.29,11.64,11.6,-0.04,No Traffic,1.0,,,,,,,
+2025-12-24 01:06:11,Berger to Garki,Berger,Garki,6.65,6.33,5.83,-0.49,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Kado to Berger,Kado,Berger,7.22,6.98,6.42,-0.55,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,24.55,-1.0,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:11,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,49.07,-0.76,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:11,Maitama to Garki,Maitama,Garki,8.59,8.18,8.45,0.27,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:11,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,10.42,0.53,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:11,Wuse to Jabi,Wuse,Jabi,2.61,5.29,4.99,-0.3,No Traffic,0.94,,,,,,,
+2025-12-24 01:06:11,Wuse to Utako,Wuse,Utako,4.54,6.9,7.29,0.39,No Traffic,1.06,,,,,,,
+2025-12-24 01:06:11,Wuse to Garki,Wuse,Garki,6.0,7.09,7.55,0.47,No Traffic,1.07,,,,,,,
+2025-12-24 01:06:11,Maitama to Asokoro,Maitama,Asokoro,6.87,6.51,6.72,0.2,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:11,Maitama to Jabi,Maitama,Jabi,6.47,9.1,9.48,0.39,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:11,Asokoro to CBD,Asokoro,CBD,6.42,8.14,7.98,-0.16,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:11,Asokoro to Garki,Asokoro,Garki,8.52,7.3,7.37,0.07,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Gwarinpa to Dutse,Gwarinpa,Dutse,7.75,9.17,8.77,-0.4,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:11,Gwarinpa to Kubwa,Gwarinpa,Kubwa,15.01,15.14,16.61,1.46,No Traffic,1.1,,,,,,,
+2025-12-24 01:06:11,Kubwa to Dutse,Kubwa,Dutse,8.8,8.92,9.21,0.29,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:11,Kubwa to Wuse,Kubwa,Wuse,3.62,4.79,4.5,-0.29,No Traffic,0.94,,,,,,,
+2025-12-24 01:06:11,Nyanya to Maraba,Nyanya,Maraba,24.45,33.77,31.58,-2.18,No Traffic,0.94,,,,,,,
+2025-12-24 01:06:11,Karu to Maraba,Karu,Maraba,10.35,24.54,24.89,0.35,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:11,Lugbe to Lokogoma,Lugbe,Lokogoma,25.58,38.99,40.54,1.55,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:11,Lugbe to Apo,Lugbe,Apo,23.11,36.97,33.92,-3.04,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:11,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,24.4,1.89,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,35.68,2.66,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Mpape to Bwari,Mpape,Bwari,15.53,17.7,19.13,1.43,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Life Camp to Gwarinpa,Life Camp,Gwarinpa,4.86,7.81,7.65,-0.16,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:11,Garki to Area 1,Garki,Area 1,2.46,3.49,3.5,0.01,No Traffic,1.0,,,,,,,
+2025-12-24 01:06:11,Area 1 to Area 2,Area 1,Area 2,1.29,2.24,2.41,0.17,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:11,Area 2 to Area 3,Area 2,Area 3,3.07,3.54,3.38,-0.16,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:11,Utako to Wuye,Utako,Wuye,6.03,9.19,9.84,0.65,No Traffic,1.07,,,,,,,
+2025-12-24 01:06:36,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,24.05,-2.1,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:36,Kuje to Central,Kuje,Central Area,40.56,35.02,37.01,1.99,No Traffic,1.06,,,,,,,
+2025-12-24 01:06:36,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,40.1,-3.96,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:36,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.76,0.23,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:36,Airport to Maitama,Airport Road,Maitama,41.36,45.21,42.93,-2.28,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:36,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,45.54,2.46,No Traffic,1.06,,,,,,,
+2025-12-24 01:06:36,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.36,-0.7,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:36,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.28,0.38,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:36,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,7.61,-0.61,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.55,-0.49,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,CBD to Maitama,CBD,Maitama,4.0,5.75,6.22,0.47,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:36,Garki to CBD,Garki,CBD,3.83,6.65,6.03,-0.62,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:36,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.11,0.15,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:36,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.72,-0.16,No Traffic,0.94,,,,,,,
+2025-12-24 01:06:36,Area 3 to CBD,Area 3,CBD,3.56,7.08,7.63,0.55,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:36,Garki to Wuse,Garki,Wuse,5.26,6.24,6.16,-0.08,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:36,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,15.7,-1.67,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:36,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,11.24,-0.56,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:36,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,12.96,-1.36,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:36,Dutse to CBD,Dutse,CBD,8.29,9.25,9.32,0.07,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:36,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.14,-0.41,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,15.03,1.35,No Traffic,1.1,,,,,,,
+2025-12-24 01:06:36,Jabi to CBD,Jabi,CBD,5.08,8.63,7.93,-0.7,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:36,Utako to Jabi,Utako,Jabi,4.62,7.79,7.08,-0.71,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:36,Utako to CBD,Utako,CBD,8.36,11.56,10.93,-0.63,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:36,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.29,0.27,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:36,Utako to Wuse,Utako,Wuse,4.69,7.31,6.74,-0.57,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:36,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.76,0.09,No Traffic,1.02,,,,,,,
+2025-12-24 01:06:36,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.67,0.02,No Traffic,1.0,,,,,,,
+2025-12-24 01:06:36,Karu to CBD,Karu,CBD,25.99,22.82,21.14,-1.68,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,Karu to Garki,Karu,Garki,28.08,21.98,21.46,-0.52,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:36,Nyanya to Garki,Nyanya,Garki,26.4,25.3,23.09,-2.22,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:36,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,34.96,2.76,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,61.16,3.25,No Traffic,1.06,,,,,,,
+2025-12-24 01:06:36,Airport to CBD,Airport Road,CBD,38.44,44.76,46.07,1.31,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:36,Lugbe to CBD,Lugbe,CBD,35.83,46.32,44.16,-2.16,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:36,Lugbe to Garki,Lugbe,Garki,36.08,43.85,43.92,0.08,No Traffic,1.0,,,,,,,
+2025-12-24 01:06:36,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,22.03,-0.48,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:36,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,46.52,1.18,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:36,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,34.37,1.35,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:36,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.86,-0.5,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.34,0.34,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Gudu to Garki,Gudu,Garki,8.8,8.73,9.53,0.8,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,14.17,0.51,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:36,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,12.67,1.08,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Maraba to CBD,Maraba,CBD,41.72,41.16,41.61,0.45,No Traffic,1.01,,,,,,,
+2025-12-24 01:06:36,Karshi to Kuje,Karshi,Kuje,89.9,97.14,92.96,-4.18,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:36,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.13,0.34,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:36,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.0,0.68,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:36,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,45.85,-2.5,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:36,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,22.28,-1.67,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,15.0,-0.18,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:36,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.12,0.89,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:36,Bwari to CBD,Bwari,CBD,31.28,27.24,24.6,-2.64,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:36,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.54,-0.1,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:36,Jahi to Wuse,Jahi,Wuse,5.61,6.48,5.99,-0.49,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:36,Katampe to Jabi,Katampe,Jabi,10.29,11.64,11.12,-0.52,No Traffic,0.96,,,,,,,
+2025-12-24 01:06:36,Berger to Garki,Berger,Garki,6.65,6.33,5.74,-0.59,No Traffic,0.91,,,,,,,
+2025-12-24 01:06:36,Kado to Berger,Kado,Berger,7.22,6.98,6.8,-0.18,No Traffic,0.97,,,,,,,
+2025-12-24 01:06:36,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,27.6,2.04,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:36,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,53.35,3.52,No Traffic,1.07,,,,,,,
+2025-12-24 01:06:36,Maitama to Garki,Maitama,Garki,8.59,8.18,8.93,0.76,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.3,-0.59,No Traffic,0.94,,,,,,,
+2025-12-24 01:06:36,Wuse to Jabi,Wuse,Jabi,2.61,5.29,5.18,-0.11,No Traffic,0.98,,,,,,,
+2025-12-24 01:06:36,Wuse to Utako,Wuse,Utako,4.54,6.9,6.44,-0.46,No Traffic,0.93,,,,,,,
+2025-12-24 01:06:36,Wuse to Garki,Wuse,Garki,6.0,7.09,7.72,0.63,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Maitama to Asokoro,Maitama,Asokoro,6.87,6.51,5.87,-0.65,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:36,Maitama to Jabi,Maitama,Jabi,6.47,9.1,9.99,0.89,No Traffic,1.1,,,,,,,
+2025-12-24 01:06:36,Asokoro to CBD,Asokoro,CBD,6.42,8.14,8.87,0.73,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Asokoro to Garki,Asokoro,Garki,8.52,7.3,7.43,0.13,No Traffic,1.02,,,,,,,
+2025-12-24 01:06:36,Gwarinpa to Dutse,Gwarinpa,Dutse,7.75,9.17,9.75,0.58,No Traffic,1.06,,,,,,,
+2025-12-24 01:06:36,Gwarinpa to Kubwa,Gwarinpa,Kubwa,15.01,15.14,15.16,0.02,No Traffic,1.0,,,,,,,
+2025-12-24 01:06:36,Kubwa to Dutse,Kubwa,Dutse,8.8,8.92,9.7,0.78,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Kubwa to Wuse,Kubwa,Wuse,3.62,4.79,4.94,0.14,No Traffic,1.03,,,,,,,
+2025-12-24 01:06:36,Nyanya to Maraba,Nyanya,Maraba,24.45,33.77,33.29,-0.48,No Traffic,0.99,,,,,,,
+2025-12-24 01:06:36,Karu to Maraba,Karu,Maraba,10.35,24.54,23.42,-1.12,No Traffic,0.95,,,,,,,
+2025-12-24 01:06:36,Lugbe to Lokogoma,Lugbe,Lokogoma,25.58,38.99,42.11,3.12,No Traffic,1.08,,,,,,,
+2025-12-24 01:06:36,Lugbe to Apo,Lugbe,Apo,23.11,36.97,33.44,-3.53,No Traffic,0.9,,,,,,,
+2025-12-24 01:06:36,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,23.54,1.04,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:36,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,34.42,1.4,No Traffic,1.04,,,,,,,
+2025-12-24 01:06:36,Mpape to Bwari,Mpape,Bwari,15.53,17.7,19.23,1.53,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Life Camp to Gwarinpa,Life Camp,Gwarinpa,4.86,7.81,8.21,0.41,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:36,Garki to Area 1,Garki,Area 1,2.46,3.49,3.65,0.16,No Traffic,1.05,,,,,,,
+2025-12-24 01:06:36,Area 1 to Area 2,Area 1,Area 2,1.29,2.24,2.07,-0.17,No Traffic,0.92,,,,,,,
+2025-12-24 01:06:36,Area 2 to Area 3,Area 2,Area 3,3.07,3.54,3.87,0.33,No Traffic,1.09,,,,,,,
+2025-12-24 01:06:36,Utako to Wuye,Utako,Wuye,6.03,9.19,9.62,0.44,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Airport to Maitama,Airport Road,Maitama,41.36,45.21,42.71,-2.5,No Traffic,0.94,,,,,,,
+2025-12-24 01:08:46,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,25.87,-0.28,No Traffic,0.99,,,,,,,
+2025-12-24 01:08:46,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.64,0.12,No Traffic,1.02,,,,,,,
+2025-12-24 01:08:46,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,41.05,-3.01,No Traffic,0.93,,,,,,,
+2025-12-24 01:08:46,Kuje to Central,Kuje,Central Area,40.56,35.02,36.49,1.47,No Traffic,1.04,,,,,,,
+2025-12-24 01:08:46,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,39.64,-3.44,No Traffic,0.92,,,,,,,
+2025-12-24 01:08:46,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.63,0.56,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.27,0.38,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.64,0.42,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.54,0.5,No Traffic,1.07,,,,,,,
+2025-12-24 01:08:46,CBD to Maitama,CBD,Maitama,4.0,5.75,6.03,0.27,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Garki to CBD,Garki,CBD,3.83,6.65,6.2,-0.45,No Traffic,0.93,,,,,,,
+2025-12-24 01:08:46,Area 1 to Garki,Area 1,Garki,2.99,3.96,3.9,-0.06,No Traffic,0.98,,,,,,,
+2025-12-24 01:08:46,Area 2 to Garki,Area 2,Garki,2.47,2.88,3.05,0.17,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Area 3 to CBD,Area 3,CBD,3.56,7.08,7.5,0.43,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Garki to Wuse,Garki,Wuse,5.26,6.24,6.73,0.49,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,15.98,-1.4,No Traffic,0.92,,,,,,,
+2025-12-24 01:08:46,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.61,0.8,No Traffic,1.07,,,,,,,
+2025-12-24 01:08:46,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,13.06,-1.26,No Traffic,0.91,,,,,,,
+2025-12-24 01:08:46,Dutse to CBD,Dutse,CBD,8.29,9.25,8.86,-0.39,No Traffic,0.96,,,,,,,
+2025-12-24 01:08:46,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.82,0.27,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,13.21,-0.46,No Traffic,0.97,,,,,,,
+2025-12-24 01:08:46,Jabi to CBD,Jabi,CBD,5.08,8.63,8.21,-0.42,No Traffic,0.95,,,,,,,
+2025-12-24 01:08:46,Utako to Jabi,Utako,Jabi,4.62,7.79,7.08,-0.71,No Traffic,0.91,,,,,,,
+2025-12-24 01:08:46,Utako to CBD,Utako,CBD,8.36,11.56,11.47,-0.09,No Traffic,0.99,,,,,,,
+2025-12-24 01:08:46,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.69,0.67,No Traffic,1.07,,,,,,,
+2025-12-24 01:08:46,Utako to Wuse,Utako,Wuse,4.69,7.31,6.86,-0.45,No Traffic,0.94,,,,,,,
+2025-12-24 01:08:46,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.89,0.22,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.23,-0.42,No Traffic,0.97,,,,,,,
+2025-12-24 01:08:46,Karu to CBD,Karu,CBD,25.99,22.82,21.62,-1.2,No Traffic,0.95,,,,,,,
+2025-12-24 01:08:46,Karu to Garki,Karu,Garki,28.08,21.98,23.69,1.71,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Nyanya to Garki,Nyanya,Garki,26.4,25.3,26.04,0.73,No Traffic,1.03,,,,,,,
+2025-12-24 01:08:46,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,32.08,-0.12,No Traffic,1.0,,,,,,,
+2025-12-24 01:08:46,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,58.24,0.34,No Traffic,1.01,,,,,,,
+2025-12-24 01:08:46,Airport to CBD,Airport Road,CBD,38.44,44.76,48.13,3.38,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Lugbe to CBD,Lugbe,CBD,35.83,46.32,45.11,-1.21,No Traffic,0.97,,,,,,,
+2025-12-24 01:08:46,Lugbe to Garki,Lugbe,Garki,36.08,43.85,45.5,1.65,No Traffic,1.04,,,,,,,
+2025-12-24 01:08:46,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,23.71,1.21,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,43.81,-1.53,No Traffic,0.97,,,,,,,
+2025-12-24 01:08:46,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,33.62,0.6,No Traffic,1.02,,,,,,,
+2025-12-24 01:08:46,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,7.85,0.49,No Traffic,1.07,,,,,,,
+2025-12-24 01:08:46,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.6,-0.4,No Traffic,0.9,,,,,,,
+2025-12-24 01:08:46,Gudu to Garki,Gudu,Garki,8.8,8.73,8.78,0.04,No Traffic,1.0,,,,,,,
+2025-12-24 01:08:46,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.66,0.0,No Traffic,1.0,,,,,,,
+2025-12-24 01:08:46,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,10.43,-1.15,No Traffic,0.9,,,,,,,
+2025-12-24 01:08:46,Maraba to CBD,Maraba,CBD,41.72,41.16,40.43,-0.73,No Traffic,0.98,,,,,,,
+2025-12-24 01:08:46,Karshi to Kuje,Karshi,Kuje,89.9,97.14,97.84,0.71,No Traffic,1.01,,,,,,,
+2025-12-24 01:08:46,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,48.35,0.01,No Traffic,1.0,,,,,,,
+2025-12-24 01:08:46,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.42,0.63,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.44,1.12,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,24.92,0.97,No Traffic,1.04,,,,,,,
+2025-12-24 01:08:46,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,14.25,-0.93,No Traffic,0.94,,,,,,,
+2025-12-24 01:08:46,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.18,0.95,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Bwari to CBD,Bwari,CBD,31.28,27.24,26.74,-0.5,No Traffic,0.98,,,,,,,
+2025-12-24 01:08:46,Katampe to Maitama,Katampe,Maitama,8.38,9.64,8.94,-0.7,No Traffic,0.93,,,,,,,
+2025-12-24 01:08:46,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.88,0.4,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Katampe to Jabi,Katampe,Jabi,10.29,11.64,12.23,0.59,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Berger to Garki,Berger,Garki,6.65,6.33,6.38,0.05,No Traffic,1.01,,,,,,,
+2025-12-24 01:08:46,Kado to Berger,Kado,Berger,7.22,6.98,6.66,-0.31,No Traffic,0.96,,,,,,,
+2025-12-24 01:08:46,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,26.62,1.06,No Traffic,1.04,,,,,,,
+2025-12-24 01:08:46,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,53.01,3.18,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Maitama to Garki,Maitama,Garki,8.59,8.18,8.61,0.43,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,10.74,0.85,No Traffic,1.09,,,,,,,
+2025-12-24 01:08:46,Wuse to Jabi,Wuse,Jabi,2.61,5.29,5.67,0.38,No Traffic,1.07,,,,,,,
+2025-12-24 01:08:46,Wuse to Utako,Wuse,Utako,4.54,6.9,7.26,0.36,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Wuse to Garki,Wuse,Garki,6.0,7.09,6.93,-0.16,No Traffic,0.98,,,,,,,
+2025-12-24 01:08:46,Maitama to Asokoro,Maitama,Asokoro,6.87,6.51,6.86,0.35,No Traffic,1.05,,,,,,,
+2025-12-24 01:08:46,Maitama to Jabi,Maitama,Jabi,6.47,9.1,8.75,-0.35,No Traffic,0.96,,,,,,,
+2025-12-24 01:08:46,Asokoro to CBD,Asokoro,CBD,6.42,8.14,8.89,0.75,No Traffic,1.09,,,,,,,
+2025-12-24 01:08:46,Asokoro to Garki,Asokoro,Garki,8.52,7.3,7.29,-0.01,No Traffic,1.0,,,,,,,
+2025-12-24 01:08:46,Gwarinpa to Dutse,Gwarinpa,Dutse,7.75,9.17,8.53,-0.63,No Traffic,0.93,,,,,,,
+2025-12-24 01:08:46,Gwarinpa to Kubwa,Gwarinpa,Kubwa,15.01,15.14,13.91,-1.23,No Traffic,0.92,,,,,,,
+2025-12-24 01:08:46,Kubwa to Dutse,Kubwa,Dutse,8.8,8.92,9.45,0.53,No Traffic,1.06,,,,,,,
+2025-12-24 01:08:46,Kubwa to Wuse,Kubwa,Wuse,3.62,4.79,4.9,0.11,No Traffic,1.02,,,,,,,
+2025-12-24 01:08:46,Nyanya to Maraba,Nyanya,Maraba,24.45,33.77,32.46,-1.3,No Traffic,0.96,,,,,,,
+2025-12-24 01:08:46,Karu to Maraba,Karu,Maraba,10.35,24.54,22.13,-2.41,No Traffic,0.9,,,,,,,
+2025-12-24 01:08:46,Lugbe to Lokogoma,Lugbe,Lokogoma,25.58,38.99,35.61,-3.37,No Traffic,0.91,,,,,,,
+2025-12-24 01:08:46,Lugbe to Apo,Lugbe,Apo,23.11,36.97,37.22,0.25,No Traffic,1.01,,,,,,,
+2025-12-24 01:08:46,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.36,-1.14,No Traffic,0.95,,,,,,,
+2025-12-24 01:08:46,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,31.94,-1.08,No Traffic,0.97,,,,,,,
+2025-12-24 01:08:46,Mpape to Bwari,Mpape,Bwari,15.53,17.7,19.19,1.49,No Traffic,1.08,,,,,,,
+2025-12-24 01:08:46,Life Camp to Gwarinpa,Life Camp,Gwarinpa,4.86,7.81,7.53,-0.27,No Traffic,0.97,,,,,,,
+2025-12-24 01:08:46,Garki to Area 1,Garki,Area 1,2.46,3.49,3.28,-0.21,No Traffic,0.94,,,,,,,
+2025-12-24 01:08:46,Area 1 to Area 2,Area 1,Area 2,1.29,2.24,2.26,0.02,No Traffic,1.01,,,,,,,
+2025-12-24 01:08:46,Area 2 to Area 3,Area 2,Area 3,3.07,3.54,3.51,-0.04,No Traffic,0.99,,,,,,,
+2025-12-24 01:08:46,Utako to Wuye,Utako,Wuye,6.03,9.19,10.03,0.85,No Traffic,1.09,,,,,,,
+2025-12-24 01:38:05,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,27.66,1.52,No Traffic,1.06,,,,,,,
+2025-12-24 01:38:05,Kuje to Central,Kuje,Central Area,40.56,35.02,37.25,2.23,No Traffic,1.06,,,,,,,
+2025-12-24 01:38:05,Airport to Maitama,Airport Road,Maitama,41.36,45.21,46.89,1.68,No Traffic,1.04,,,,,,,
+2025-12-24 01:38:05,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.67,0.14,No Traffic,1.02,,,,,,,
+2025-12-24 01:38:05,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,41.53,-2.53,No Traffic,0.94,,,,,,,
+2025-12-24 01:38:05,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.27,0.37,No Traffic,1.08,,,,,,,
+2025-12-24 01:38:05,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,7.42,-0.8,No Traffic,0.9,,,,,,,
+2025-12-24 01:38:05,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.89,-0.15,No Traffic,0.98,,,,,,,
+2025-12-24 01:38:06,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,8.27,0.74,No Traffic,1.1,,,,,,,
+2025-12-24 01:38:06,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,24.23,-1.92,No Traffic,0.93,,,,,,,
+2025-12-24 01:38:06,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,41.76,-2.29,No Traffic,0.95,,,,,,,
+2025-12-24 01:38:06,Airport to Maitama,Airport Road,Maitama,41.36,45.21,42.06,-3.15,No Traffic,0.93,,,,,,,
+2025-12-24 01:38:06,Kuje to Central,Kuje,Central Area,40.56,35.02,34.18,-0.84,No Traffic,0.98,,,,,,,
+2025-12-24 01:38:07,Kuje to Central,Kuje,Central Area,40.56,35.02,31.81,-3.21,No Traffic,0.91,,,,,,,
+2025-12-24 01:38:07,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,46.7,3.62,No Traffic,1.08,,,,,,,
+2025-12-24 01:38:07,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.16,0.26,No Traffic,1.05,,,,,,,
+2025-12-24 01:38:06,Airport to Maitama,Airport Road,Maitama,41.36,45.21,49.58,4.37,No Traffic,1.1,,,,,,,
+2025-12-24 01:38:06,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,24.81,-1.34,No Traffic,0.95,,,,,,,
+2025-12-24 01:38:06,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,8.17,0.65,No Traffic,1.09,,,,,,,
+2025-12-24 01:38:06,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,46.62,2.56,No Traffic,1.06,,,,,,,
+2025-12-24 01:38:06,Kuje to Central,Kuje,Central Area,40.56,35.02,31.61,-3.41,No Traffic,0.9,,,,,,,
+2025-12-24 02:27:39,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,39.83,-4.22,No Traffic,0.9,,,,,,,
+2025-12-24 02:27:39,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,6.81,-0.72,No Traffic,0.9,,,,,,,
+2025-12-24 02:27:39,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,27.13,0.99,No Traffic,1.04,,,,,,,
+2025-12-24 02:27:39,Kuje to Central,Kuje,Central Area,40.56,35.02,33.46,-1.56,No Traffic,0.96,,,,,,,
+2025-12-24 02:27:39,Airport to Maitama,Airport Road,Maitama,41.36,45.21,41.71,-3.5,No Traffic,0.92,,,,,,,
+2025-12-24 02:27:39,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,41.92,-1.16,No Traffic,0.97,,,,,,,
+2025-12-24 02:27:39,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.43,-0.47,No Traffic,0.9,,,,,,,
+2025-12-24 02:27:39,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.62,0.4,No Traffic,1.05,,,,,,,
+2025-12-24 02:27:42,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.52,-0.01,No Traffic,1.0,,,,,,,
+2025-12-24 02:27:42,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,40.32,-2.76,No Traffic,0.94,,,,,,,
+2025-12-24 02:27:42,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.54,-0.53,No Traffic,0.92,,,,,,,
+2025-12-24 02:27:42,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,25.22,-0.93,No Traffic,0.96,,,,,,,
+2025-12-24 02:27:42,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,6.96,-0.57,No Traffic,0.92,,,,,,,
+2025-12-24 02:27:42,Airport to Maitama,Airport Road,Maitama,41.36,45.21,41.39,-3.82,No Traffic,0.92,,,,,,,
+2025-12-24 02:27:40,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.06,-0.46,No Traffic,0.94,,,,,,,
+2025-12-24 02:27:40,Airport to Maitama,Airport Road,Maitama,41.36,45.21,49.36,4.16,No Traffic,1.09,,,,,,,
+2025-12-24 02:27:40,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,24.65,-1.49,No Traffic,0.94,,,,,,,
+2025-12-24 02:27:40,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,45.14,1.09,No Traffic,1.02,,,,,,,
+2025-12-24 02:27:40,Kuje to Central,Kuje,Central Area,40.56,35.02,32.83,-2.19,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,27.58,1.43,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:40,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.07,-0.46,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Airport to Maitama,Airport Road,Maitama,41.36,45.21,48.35,3.14,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:40,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,48.27,4.21,No Traffic,1.1,,,,,,,
+2025-12-24 03:08:40,Kuje to Central,Kuje,Central Area,40.56,35.02,37.13,2.11,No Traffic,1.06,,,,,,,
+2025-12-24 03:08:40,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,44.24,1.16,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:40,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.58,-0.49,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.38,0.48,No Traffic,1.1,,,,,,,
+2025-12-24 03:08:40,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,7.89,-0.33,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:40,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.42,-0.61,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,CBD to Maitama,CBD,Maitama,4.0,5.75,6.27,0.52,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:40,Garki to CBD,Garki,CBD,3.83,6.65,6.43,-0.23,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:40,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.23,0.27,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:40,Area 2 to Garki,Area 2,Garki,2.47,2.88,3.13,0.25,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:40,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.57,-0.51,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Garki to Wuse,Garki,Wuse,5.26,6.24,6.02,-0.22,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:40,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,15.92,-1.46,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:40,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,10.75,-1.05,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,13.6,-0.73,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:40,Dutse to CBD,Dutse,CBD,8.29,9.25,8.76,-0.49,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:40,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.2,-0.35,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,14.21,0.54,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:40,Jabi to CBD,Jabi,CBD,5.08,8.63,8.67,0.03,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:40,Utako to Jabi,Utako,Jabi,4.62,7.79,7.63,-0.15,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:40,Utako to CBD,Utako,CBD,8.36,11.56,11.51,-0.06,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:40,Wuye to Jabi,Wuye,Jabi,7.59,9.03,8.64,-0.38,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:40,Utako to Wuse,Utako,Wuse,4.69,7.31,7.41,0.11,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:40,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.64,-0.03,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:40,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.21,-0.44,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:40,Karu to CBD,Karu,CBD,25.99,22.82,21.8,-1.02,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:40,Karu to Garki,Karu,Garki,28.08,21.98,19.96,-2.02,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,Nyanya to Garki,Nyanya,Garki,26.4,25.3,27.59,2.29,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:40,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,29.99,-2.2,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,58.23,0.33,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:40,Airport to CBD,Airport Road,CBD,38.44,44.76,46.29,1.54,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:40,Lugbe to CBD,Lugbe,CBD,35.83,46.32,47.77,1.46,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:40,Lugbe to Garki,Lugbe,Garki,36.08,43.85,41.23,-2.62,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,20.61,-1.9,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:40,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,45.66,0.32,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:40,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,30.03,-2.99,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,7.12,-0.25,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:40,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.7,-0.3,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Gudu to Garki,Gudu,Garki,8.8,8.73,8.7,-0.03,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:40,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,14.16,0.5,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:40,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,12.33,0.75,No Traffic,1.06,,,,,,,
+2025-12-24 03:08:40,Maraba to CBD,Maraba,CBD,41.72,41.16,38.96,-2.19,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:40,Karshi to Kuje,Karshi,Kuje,89.9,97.14,92.07,-5.06,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:40,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,53.01,4.66,No Traffic,1.1,,,,,,,
+2025-12-24 03:08:40,Life Camp to Utako,Life Camp,Utako,7.59,9.79,9.85,0.06,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:40,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,14.78,0.47,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:40,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,25.82,1.88,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:40,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,14.1,-1.08,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Bwari to Mpape,Bwari,Mpape,10.62,19.23,17.42,-1.81,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,Bwari to CBD,Bwari,CBD,31.28,27.24,27.57,0.33,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:40,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.62,-0.02,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:40,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.44,-0.04,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:40,Katampe to Jabi,Katampe,Jabi,10.29,11.64,10.89,-0.75,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Berger to Garki,Berger,Garki,6.65,6.33,6.87,0.54,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:40,Kado to Berger,Kado,Berger,7.22,6.98,7.57,0.59,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:40,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,26.97,1.41,No Traffic,1.06,,,,,,,
+2025-12-24 03:08:40,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,45.48,-4.35,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,Maitama to Garki,Maitama,Garki,8.59,8.18,8.63,0.45,No Traffic,1.06,,,,,,,
+2025-12-24 03:08:40,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.19,-0.7,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Wuse to Jabi,Wuse,Jabi,2.61,5.29,4.88,-0.41,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:40,Wuse to Utako,Wuse,Utako,4.54,6.9,6.36,-0.54,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:40,Wuse to Garki,Wuse,Garki,6.0,7.09,6.6,-0.49,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:40,Maitama to Asokoro,Maitama,Asokoro,6.87,6.51,5.87,-0.64,No Traffic,0.9,,,,,,,
+2025-12-24 03:08:40,Maitama to Jabi,Maitama,Jabi,6.47,9.1,8.28,-0.81,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:40,Asokoro to CBD,Asokoro,CBD,6.42,8.14,8.26,0.12,No Traffic,1.02,,,,,,,
+2025-12-24 03:08:40,Asokoro to Garki,Asokoro,Garki,8.52,7.3,7.24,-0.06,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:40,Gwarinpa to Dutse,Gwarinpa,Dutse,7.75,9.17,8.94,-0.22,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:40,Gwarinpa to Kubwa,Gwarinpa,Kubwa,15.01,15.14,14.5,-0.65,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:40,Kubwa to Dutse,Kubwa,Dutse,8.8,8.92,9.36,0.43,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:40,Kubwa to Wuse,Kubwa,Wuse,3.62,4.79,4.66,-0.13,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:40,Nyanya to Maraba,Nyanya,Maraba,24.45,33.77,35.09,1.32,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:40,Lugbe to Lokogoma,Lugbe,Lokogoma,25.58,38.99,35.87,-3.12,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:40,Lugbe to Apo,Lugbe,Apo,23.11,36.97,36.36,-0.61,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:40,Karu to Maraba,Karu,Maraba,10.35,24.54,25.35,0.81,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:40,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,20.72,-1.79,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:40,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,32.74,-0.28,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:40,Mpape to Bwari,Mpape,Bwari,15.53,17.7,18.39,0.69,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:40,Area 2 to Area 3,Area 2,Area 3,3.07,3.54,3.34,-0.2,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Life Camp to Gwarinpa,Life Camp,Gwarinpa,4.86,7.81,7.81,0.0,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:40,Area 1 to Area 2,Area 1,Area 2,1.29,2.24,2.1,-0.14,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:40,Garki to Area 1,Garki,Area 1,2.46,3.49,3.67,0.18,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:41,Airport to Maitama,Airport Road,Maitama,41.36,45.21,48.72,3.51,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:41,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,24.59,-1.56,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:41,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,8.04,0.51,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:41,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,42.59,-1.47,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:41,Kuje to Central,Kuje,Central Area,40.56,35.02,31.57,-3.45,No Traffic,0.9,,,,,,,
+2025-12-24 03:08:41,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,46.59,3.51,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:41,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.64,0.57,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:41,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.65,-0.25,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.04,-0.18,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.12,0.09,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:41,CBD to Maitama,CBD,Maitama,4.0,5.75,6.05,0.3,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:41,Garki to CBD,Garki,CBD,3.83,6.65,7.24,0.59,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Area 1 to Garki,Area 1,Garki,2.99,3.96,3.75,-0.21,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.83,-0.05,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.86,-0.21,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:41,Garki to Wuse,Garki,Wuse,5.26,6.24,6.74,0.51,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:41,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,17.76,0.38,No Traffic,1.02,,,,,,,
+2025-12-24 03:08:41,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.06,0.25,No Traffic,1.02,,,,,,,
+2025-12-24 03:08:41,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.15,-0.17,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:41,Dutse to CBD,Dutse,CBD,8.29,9.25,8.41,-0.84,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:41,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.55,-0.01,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:41,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,13.12,-0.55,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:41,Jabi to CBD,Jabi,CBD,5.08,8.63,8.21,-0.42,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Utako to Jabi,Utako,Jabi,4.62,7.79,7.37,-0.41,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Utako to CBD,Utako,CBD,8.36,11.56,11.65,0.09,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:41,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.28,0.26,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:41,Utako to Wuse,Utako,Wuse,4.69,7.31,7.7,0.4,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:41,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.8,0.13,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:41,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.61,-0.04,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:41,Karu to CBD,Karu,CBD,25.99,22.82,24.31,1.49,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:41,Karu to Garki,Karu,Garki,28.08,21.98,20.1,-1.88,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:41,Nyanya to Garki,Nyanya,Garki,26.4,25.3,24.74,-0.56,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,29.81,-2.39,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:41,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,57.7,-0.21,No Traffic,1.0,,,,,,,
+2025-12-24 03:08:41,Airport to CBD,Airport Road,CBD,38.44,44.76,44.11,-0.64,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:41,Lugbe to CBD,Lugbe,CBD,35.83,46.32,50.63,4.31,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Lugbe to Garki,Lugbe,Garki,36.08,43.85,41.13,-2.71,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:41,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,20.93,-1.58,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:41,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,47.5,2.16,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:41,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,34.26,1.25,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:41,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.98,-0.39,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.82,-0.18,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Gudu to Garki,Gudu,Garki,8.8,8.73,8.51,-0.23,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:41,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,11.09,-0.5,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:41,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.55,-0.11,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:41,Maraba to CBD,Maraba,CBD,41.72,41.16,39.85,-1.31,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:41,Karshi to Kuje,Karshi,Kuje,89.9,97.14,105.53,8.39,Light Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,47.53,-0.82,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.7,0.91,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,13.53,-0.79,No Traffic,0.94,,,,,,,
+2025-12-24 03:08:41,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,24.81,0.87,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:41,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,13.81,-1.37,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:41,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.53,1.3,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:41,Bwari to CBD,Bwari,CBD,31.28,27.24,25.42,-1.81,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:41,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.88,0.24,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:41,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.18,-0.3,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Katampe to Jabi,Katampe,Jabi,10.29,11.64,11.72,0.08,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:41,Berger to Garki,Berger,Garki,6.65,6.33,6.27,-0.05,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:41,Kado to Berger,Kado,Berger,7.22,6.98,6.29,-0.69,No Traffic,0.9,,,,,,,
+2025-12-24 03:08:41,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,24.53,-1.03,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:41,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,54.46,4.64,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Maitama to Garki,Maitama,Garki,8.59,8.18,7.59,-0.58,No Traffic,0.93,,,,,,,
+2025-12-24 03:08:41,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,10.24,0.34,No Traffic,1.03,,,,,,,
+2025-12-24 03:08:41,Wuse to Jabi,Wuse,Jabi,2.61,5.29,5.52,0.23,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:41,Wuse to Utako,Wuse,Utako,4.54,6.9,7.53,0.63,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Wuse to Garki,Wuse,Garki,6.0,7.09,6.38,-0.7,No Traffic,0.9,,,,,,,
+2025-12-24 03:08:41,Maitama to Asokoro,Maitama,Asokoro,6.87,6.51,6.56,0.04,No Traffic,1.01,,,,,,,
+2025-12-24 03:08:41,Maitama to Jabi,Maitama,Jabi,6.47,9.1,8.92,-0.18,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Asokoro to CBD,Asokoro,CBD,6.42,8.14,7.93,-0.21,No Traffic,0.97,,,,,,,
+2025-12-24 03:08:41,Asokoro to Garki,Asokoro,Garki,8.52,7.3,7.76,0.46,No Traffic,1.06,,,,,,,
+2025-12-24 03:08:41,Gwarinpa to Dutse,Gwarinpa,Dutse,7.75,9.17,8.41,-0.76,No Traffic,0.92,,,,,,,
+2025-12-24 03:08:41,Gwarinpa to Kubwa,Gwarinpa,Kubwa,15.01,15.14,15.93,0.78,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:41,Kubwa to Dutse,Kubwa,Dutse,8.8,8.92,8.77,-0.15,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Kubwa to Wuse,Kubwa,Wuse,3.62,4.79,5.15,0.36,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:41,Nyanya to Maraba,Nyanya,Maraba,24.45,33.77,32.08,-1.69,No Traffic,0.95,,,,,,,
+2025-12-24 03:08:41,Karu to Maraba,Karu,Maraba,10.35,24.54,25.68,1.14,No Traffic,1.05,,,,,,,
+2025-12-24 03:08:41,Lugbe to Lokogoma,Lugbe,Lokogoma,25.58,38.99,38.58,-0.4,No Traffic,0.99,,,,,,,
+2025-12-24 03:08:41,Lugbe to Apo,Lugbe,Apo,23.11,36.97,39.41,2.44,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:41,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,24.33,1.83,No Traffic,1.08,,,,,,,
+2025-12-24 03:08:41,Garki to Area 1,Garki,Area 1,2.46,3.49,3.19,-0.3,No Traffic,0.91,,,,,,,
+2025-12-24 03:08:41,Mpape to Bwari,Mpape,Bwari,15.53,17.7,17.36,-0.34,No Traffic,0.98,,,,,,,
+2025-12-24 03:08:41,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,35.23,2.21,No Traffic,1.07,,,,,,,
+2025-12-24 03:08:41,Life Camp to Gwarinpa,Life Camp,Gwarinpa,4.86,7.81,8.14,0.33,No Traffic,1.04,,,,,,,
+2025-12-24 03:08:41,Area 1 to Area 2,Area 1,Area 2,1.29,2.24,2.15,-0.09,No Traffic,0.96,,,,,,,
+2025-12-24 03:08:41,Utako to Wuye,Utako,Wuye,6.03,9.19,9.98,0.79,No Traffic,1.09,,,,,,,
+2025-12-24 03:08:41,Area 2 to Area 3,Area 2,Area 3,3.07,3.54,3.45,-0.09,No Traffic,0.97,,,,,,,
+2025-12-24 03:43:56,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.71,0.18,No Traffic,1.02,,,,,,,
+2025-12-24 03:43:56,Kuje to Central,Kuje,Central Area,40.56,35.02,37.42,2.4,No Traffic,1.07,,,,,,,
+2025-12-24 03:43:56,Airport to Maitama,Airport Road,Maitama,41.36,45.21,41.06,-4.15,No Traffic,0.91,,,,,,,
+2025-12-24 03:43:56,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,46.24,2.18,No Traffic,1.05,,,,,,,
+2025-12-24 03:43:56,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,24.78,-1.36,No Traffic,0.95,,,,,,,
+2025-12-24 03:43:56,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,45.52,2.44,No Traffic,1.06,,,,,,,
+2025-12-24 03:43:56,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.75,-0.32,No Traffic,0.96,,,,,,,
+2025-12-24 03:43:56,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.25,0.36,No Traffic,1.07,,,,,,,
+2025-12-24 03:43:56,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.65,0.43,No Traffic,1.05,,,,,,,
+2025-12-24 03:43:56,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.29,0.25,No Traffic,1.04,,,,,,,
+2025-12-24 03:43:56,CBD to Maitama,CBD,Maitama,4.0,5.75,5.18,-0.57,No Traffic,0.9,,,,,,,
+2025-12-24 03:43:56,Garki to CBD,Garki,CBD,3.83,6.65,6.16,-0.49,No Traffic,0.93,,,,,,,
+2025-12-24 03:43:56,Area 1 to Garki,Area 1,Garki,2.99,3.96,3.85,-0.11,No Traffic,0.97,,,,,,,
+2025-12-24 03:43:56,Area 2 to Garki,Area 2,Garki,2.47,2.88,3.13,0.25,No Traffic,1.09,,,,,,,
+2025-12-24 03:43:56,Area 3 to CBD,Area 3,CBD,3.56,7.08,7.35,0.28,No Traffic,1.04,,,,,,,
+2025-12-24 03:43:56,Garki to Wuse,Garki,Wuse,5.26,6.24,6.01,-0.23,No Traffic,0.96,,,,,,,
+2025-12-24 03:43:56,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,18.06,0.69,No Traffic,1.04,,,,,,,
+2025-12-24 03:43:56,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.1,0.29,No Traffic,1.02,,,,,,,
+2025-12-24 03:43:56,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.4,0.07,No Traffic,1.01,,,,,,,
+2025-12-24 03:43:56,Dutse to CBD,Dutse,CBD,8.29,9.25,8.47,-0.78,No Traffic,0.92,,,,,,,
+2025-12-24 03:43:56,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.31,-0.24,No Traffic,0.96,,,,,,,
+2025-12-24 03:43:56,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,13.56,-0.12,No Traffic,0.99,,,,,,,
+2025-12-24 03:43:56,Jabi to CBD,Jabi,CBD,5.08,8.63,8.86,0.23,No Traffic,1.03,,,,,,,
+2025-12-24 03:43:56,Utako to Jabi,Utako,Jabi,4.62,7.79,8.14,0.36,No Traffic,1.05,,,,,,,
+2025-12-24 03:43:56,Utako to CBD,Utako,CBD,8.36,11.56,11.6,0.04,No Traffic,1.0,,,,,,,
+2025-12-24 03:43:56,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.92,0.89,No Traffic,1.1,,,,,,,
+2025-12-24 03:43:56,Utako to Wuse,Utako,Wuse,4.69,7.31,6.93,-0.38,No Traffic,0.95,,,,,,,
+2025-12-24 03:43:56,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.45,-0.22,No Traffic,0.94,,,,,,,
+2025-12-24 03:43:56,Nyanya to Karu,Nyanya,Karu,10.18,15.65,14.95,-0.69,No Traffic,0.96,,,,,,,
+2025-12-24 03:43:56,Karu to CBD,Karu,CBD,25.99,22.82,21.25,-1.57,No Traffic,0.93,,,,,,,
+2025-12-24 03:43:56,Karu to Garki,Karu,Garki,28.08,21.98,20.8,-1.18,No Traffic,0.95,,,,,,,
+2025-12-24 03:43:56,Nyanya to Garki,Nyanya,Garki,26.4,25.3,27.24,1.93,No Traffic,1.08,,,,,,,
+2025-12-24 03:43:56,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,31.39,-0.81,No Traffic,0.97,,,,,,,
+2025-12-24 03:43:56,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,54.68,-3.22,No Traffic,0.94,,,,,,,
+2025-12-24 03:43:56,Airport to CBD,Airport Road,CBD,38.44,44.76,42.85,-1.9,No Traffic,0.96,,,,,,,
+2025-12-24 03:43:56,Lugbe to CBD,Lugbe,CBD,35.83,46.32,43.9,-2.42,No Traffic,0.95,,,,,,,
+2025-12-24 03:43:56,Lugbe to Garki,Lugbe,Garki,36.08,43.85,43.26,-0.59,No Traffic,0.99,,,,,,,
+2025-12-24 03:43:56,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.92,-0.58,No Traffic,0.97,,,,,,,
+2025-12-24 03:43:56,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,49.83,4.5,No Traffic,1.1,,,,,,,
+2025-12-24 03:43:56,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,31.22,-1.8,No Traffic,0.95,,,,,,,
+2025-12-24 03:43:56,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,7.85,0.49,No Traffic,1.07,,,,,,,
+2025-12-24 03:43:56,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.01,0.01,No Traffic,1.0,,,,,,,
+2025-12-24 03:43:56,Gudu to Garki,Gudu,Garki,8.8,8.73,8.2,-0.53,No Traffic,0.94,,,,,,,
+2025-12-24 03:43:56,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.01,-0.65,No Traffic,0.95,,,,,,,
+2025-12-24 03:43:56,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,12.7,1.11,No Traffic,1.1,,,,,,,
+2025-12-24 03:43:56,Maraba to CBD,Maraba,CBD,41.72,41.16,37.36,-3.8,No Traffic,0.91,,,,,,,
+2025-12-24 03:43:56,Karshi to Kuje,Karshi,Kuje,89.9,97.14,91.01,-6.13,No Traffic,0.94,,,,,,,
+2025-12-24 03:43:56,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,52.72,4.38,No Traffic,1.09,,,,,,,
+2025-12-24 03:43:56,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.45,0.66,No Traffic,1.07,,,,,,,
+2025-12-24 03:43:56,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,14.46,0.14,No Traffic,1.01,,,,,,,
+2025-12-24 03:43:56,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,23.64,-0.3,No Traffic,0.99,,,,,,,
+2025-12-24 03:43:56,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,14.23,-0.95,No Traffic,0.94,,,,,,,
+2025-12-24 03:43:56,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.83,1.6,No Traffic,1.08,,,,,,,
+2025-12-24 03:43:56,Bwari to CBD,Bwari,CBD,31.28,27.24,27.11,-0.13,No Traffic,1.0,,,,,,,
+2025-12-24 03:43:56,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.67,0.03,No Traffic,1.0,,,,,,,
+2025-12-24 03:43:56,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.05,-0.44,No Traffic,0.93,,,,,,,
+2025-12-24 03:43:56,Katampe to Jabi,Katampe,Jabi,10.29,11.64,10.69,-0.95,No Traffic,0.92,,,,,,,
+2025-12-24 03:43:56,Berger to Garki,Berger,Garki,6.65,6.33,5.74,-0.59,No Traffic,0.91,,,,,,,
+2025-12-24 03:43:56,Kado to Berger,Kado,Berger,7.22,6.98,6.75,-0.23,No Traffic,0.97,,,,,,,
+2025-12-24 03:43:56,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,26.74,1.18,No Traffic,1.05,,,,,,,
+2025-12-24 03:43:56,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,46.5,-3.32,No Traffic,0.93,,,,,,,
+2025-12-24 03:43:56,Maitama to Garki,Maitama,Garki,8.59,8.18,8.67,0.49,No Traffic,1.06,,,,,,,
+2025-12-24 03:43:56,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.22,-0.68,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,40.54,-3.51,No Traffic,0.92,,,,,,,
+2025-12-24 04:27:54,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,26.91,0.77,No Traffic,1.03,,,,,,,
+2025-12-24 04:27:54,Airport to Maitama,Airport Road,Maitama,41.36,45.21,48.33,3.12,No Traffic,1.07,,,,,,,
+2025-12-24 04:27:54,Kuje to Central,Kuje,Central Area,40.56,35.02,36.12,1.1,No Traffic,1.03,,,,,,,
+2025-12-24 04:27:54,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.99,0.46,No Traffic,1.06,,,,,,,
+2025-12-24 04:27:54,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,40.37,-2.71,No Traffic,0.94,,,,,,,
+2025-12-24 04:27:54,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.11,0.04,No Traffic,1.01,,,,,,,
+2025-12-24 04:27:54,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.14,0.25,No Traffic,1.05,,,,,,,
+2025-12-24 04:27:54,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.48,0.26,No Traffic,1.03,,,,,,,
+2025-12-24 04:27:54,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.99,-0.05,No Traffic,0.99,,,,,,,
+2025-12-24 04:27:54,CBD to Maitama,CBD,Maitama,4.0,5.75,6.22,0.47,No Traffic,1.08,,,,,,,
+2025-12-24 04:27:54,Garki to CBD,Garki,CBD,3.83,6.65,6.05,-0.6,No Traffic,0.91,,,,,,,
+2025-12-24 04:27:54,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.19,0.23,No Traffic,1.06,,,,,,,
+2025-12-24 04:27:54,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.79,-0.09,No Traffic,0.97,,,,,,,
+2025-12-24 04:27:54,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.61,-0.46,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Garki to Wuse,Garki,Wuse,5.26,6.24,6.83,0.6,No Traffic,1.1,,,,,,,
+2025-12-24 04:27:54,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,15.89,-1.48,No Traffic,0.91,,,,,,,
+2025-12-24 04:27:54,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,11.61,-0.2,No Traffic,0.98,,,,,,,
+2025-12-24 04:27:54,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.84,0.51,No Traffic,1.04,,,,,,,
+2025-12-24 04:27:54,Dutse to CBD,Dutse,CBD,8.29,9.25,9.58,0.33,No Traffic,1.04,,,,,,,
+2025-12-24 04:27:54,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.87,0.31,No Traffic,1.06,,,,,,,
+2025-12-24 04:27:54,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,12.7,-0.97,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Jabi to CBD,Jabi,CBD,5.08,8.63,8.65,0.02,No Traffic,1.0,,,,,,,
+2025-12-24 04:27:54,Utako to Jabi,Utako,Jabi,4.62,7.79,7.27,-0.52,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Utako to CBD,Utako,CBD,8.36,11.56,11.83,0.26,No Traffic,1.02,,,,,,,
+2025-12-24 04:27:54,Wuye to Jabi,Wuye,Jabi,7.59,9.03,8.56,-0.46,No Traffic,0.95,,,,,,,
+2025-12-24 04:27:54,Utako to Wuse,Utako,Wuse,4.69,7.31,7.15,-0.16,No Traffic,0.98,,,,,,,
+2025-12-24 04:27:54,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.52,-0.15,No Traffic,0.96,,,,,,,
+2025-12-24 04:27:54,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.33,-0.32,No Traffic,0.98,,,,,,,
+2025-12-24 04:27:54,Karu to CBD,Karu,CBD,25.99,22.82,20.73,-2.09,No Traffic,0.91,,,,,,,
+2025-12-24 04:27:54,Karu to Garki,Karu,Garki,28.08,21.98,23.69,1.71,No Traffic,1.08,,,,,,,
+2025-12-24 04:27:54,Nyanya to Garki,Nyanya,Garki,26.4,25.3,26.89,1.59,No Traffic,1.06,,,,,,,
+2025-12-24 04:27:54,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,32.39,0.19,No Traffic,1.01,,,,,,,
+2025-12-24 04:27:54,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,57.13,-0.77,No Traffic,0.99,,,,,,,
+2025-12-24 04:27:54,Airport to CBD,Airport Road,CBD,38.44,44.76,43.21,-1.55,No Traffic,0.97,,,,,,,
+2025-12-24 04:27:54,Lugbe to CBD,Lugbe,CBD,35.83,46.32,50.01,3.7,No Traffic,1.08,,,,,,,
+2025-12-24 04:27:54,Lugbe to Garki,Lugbe,Garki,36.08,43.85,43.81,-0.04,No Traffic,1.0,,,,,,,
+2025-12-24 04:27:54,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.01,-1.49,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,42.09,-3.25,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,30.14,-2.88,No Traffic,0.91,,,,,,,
+2025-12-24 04:27:54,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,7.8,0.43,No Traffic,1.06,,,,,,,
+2025-12-24 04:27:54,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.3,0.29,No Traffic,1.07,,,,,,,
+2025-12-24 04:27:54,Gudu to Garki,Gudu,Garki,8.8,8.73,9.19,0.46,No Traffic,1.05,,,,,,,
+2025-12-24 04:27:54,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,12.51,-1.15,No Traffic,0.92,,,,,,,
+2025-12-24 04:27:54,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,12.38,0.8,No Traffic,1.07,,,,,,,
+2025-12-24 04:27:54,Maraba to CBD,Maraba,CBD,41.72,41.16,39.41,-1.75,No Traffic,0.96,,,,,,,
+2025-12-24 04:27:54,Karshi to Kuje,Karshi,Kuje,89.9,97.14,97.66,0.52,No Traffic,1.01,,,,,,,
+2025-12-24 04:27:54,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.31,0.52,No Traffic,1.05,,,,,,,
+2025-12-24 04:27:54,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.27,0.95,No Traffic,1.07,,,,,,,
+2025-12-24 04:27:54,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,25.82,1.88,No Traffic,1.08,,,,,,,
+2025-12-24 04:27:54,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,14.08,-1.09,No Traffic,0.93,,,,,,,
+2025-12-24 04:27:54,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,46.31,-2.04,No Traffic,0.96,,,,,,,
+2025-12-24 04:27:54,Bwari to Mpape,Bwari,Mpape,10.62,19.23,21.0,1.77,No Traffic,1.09,,,,,,,
+2025-12-24 04:27:54,Bwari to CBD,Bwari,CBD,31.28,27.24,25.6,-1.63,No Traffic,0.94,,,,,,,
+2025-12-24 04:27:54,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.19,-0.45,No Traffic,0.95,,,,,,,
+2025-12-24 04:27:54,Jahi to Wuse,Jahi,Wuse,5.61,6.48,7.06,0.58,No Traffic,1.09,,,,,,,
+2025-12-24 04:27:54,Katampe to Jabi,Katampe,Jabi,10.29,11.64,12.68,1.04,No Traffic,1.09,,,,,,,
+2025-12-24 04:27:54,Berger to Garki,Berger,Garki,6.65,6.33,6.73,0.41,No Traffic,1.06,,,,,,,
+2025-12-24 04:27:54,Kado to Berger,Kado,Berger,7.22,6.98,7.24,0.26,No Traffic,1.04,,,,,,,
+2025-12-24 04:27:54,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,23.33,-2.23,No Traffic,0.91,,,,,,,
+2025-12-24 04:27:54,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,50.81,0.98,No Traffic,1.02,,,,,,,
+2025-12-24 04:27:54,Maitama to Garki,Maitama,Garki,8.59,8.18,7.98,-0.2,No Traffic,0.98,,,,,,,
+2025-12-24 04:27:54,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.01,-0.88,No Traffic,0.91,,,,,,,
+2025-12-24 04:56:57,,,,,,,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.34,-0.19,,No Traffic,0.98
+2025-12-24 04:56:57,,,,,,,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,27.09,0.94,,No Traffic,1.04
+2025-12-24 04:56:57,,,,,,,Airport to Maitama,Airport Road,Maitama,41.36,45.21,41.62,-3.59,,No Traffic,0.92
+2025-12-24 04:56:57,,,,,,,Kuje to Central,Kuje,Central Area,40.56,35.02,35.33,0.31,,No Traffic,1.01
+2025-12-24 04:56:57,,,,,,,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,45.17,1.11,,No Traffic,1.03
+2025-12-24 04:56:57,,,,,,,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,42.89,-0.19,,No Traffic,1.0
+2025-12-24 04:56:57,,,,,,,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.84,-0.23,,No Traffic,0.97
+2025-12-24 04:56:57,,,,,,,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.38,0.48,,No Traffic,1.1
+2025-12-24 04:56:57,,,,,,,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.09,-0.13,,No Traffic,0.98
+2025-12-24 04:56:57,,,,,,,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.28,0.24,,No Traffic,1.03
+2025-12-24 04:56:57,,,,,,,CBD to Maitama,CBD,Maitama,4.0,5.75,5.22,-0.53,,No Traffic,0.91
+2025-12-24 04:56:57,,,,,,,Garki to CBD,Garki,CBD,3.83,6.65,7.22,0.57,,No Traffic,1.09
+2025-12-24 04:56:57,,,,,,,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.24,0.27,,No Traffic,1.07
+2025-12-24 04:56:57,,,,,,,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.95,0.07,,No Traffic,1.02
+2025-12-24 04:56:57,,,,,,,Area 3 to CBD,Area 3,CBD,3.56,7.08,7.25,0.18,,No Traffic,1.02
+2025-12-24 04:56:57,,,,,,,Garki to Wuse,Garki,Wuse,5.26,6.24,6.42,0.18,,No Traffic,1.03
+2025-12-24 04:56:57,,,,,,,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,16.41,-0.97,,No Traffic,0.94
+2025-12-24 04:56:57,,,,,,,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.49,0.68,,No Traffic,1.06
+2025-12-24 04:56:57,,,,,,,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.91,0.58,,No Traffic,1.04
+2025-12-24 04:56:57,,,,,,,Dutse to CBD,Dutse,CBD,8.29,9.25,9.34,0.09,,No Traffic,1.01
+2025-12-24 04:56:57,,,,,,,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.52,-0.04,,No Traffic,0.99
+2025-12-24 04:56:57,,,,,,,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,14.59,0.92,,No Traffic,1.07
+2025-12-24 04:56:57,,,,,,,Jabi to CBD,Jabi,CBD,5.08,8.63,9.09,0.46,,No Traffic,1.05
+2025-12-24 04:56:57,,,,,,,Utako to Jabi,Utako,Jabi,4.62,7.79,7.77,-0.02,,No Traffic,1.0
+2025-12-24 04:56:57,,,,,,,Utako to CBD,Utako,CBD,8.36,11.56,12.56,1.0,,No Traffic,1.09
+2025-12-24 04:56:57,,,,,,,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.49,0.46,,No Traffic,1.05
+2025-12-24 04:56:57,,,,,,,Utako to Wuse,Utako,Wuse,4.69,7.31,7.81,0.51,,No Traffic,1.07
+2025-12-24 04:56:57,,,,,,,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.44,-0.23,,No Traffic,0.94
+2025-12-24 04:56:57,,,,,,,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.05,-0.6,,No Traffic,0.96
+2025-12-24 04:56:57,,,,,,,Karu to CBD,Karu,CBD,25.99,22.82,23.33,0.51,,No Traffic,1.02
+2025-12-24 04:56:57,,,,,,,Karu to Garki,Karu,Garki,28.08,21.98,23.67,1.7,,No Traffic,1.08
+2025-12-24 04:56:57,,,,,,,Nyanya to Garki,Nyanya,Garki,26.4,25.3,26.74,1.44,,No Traffic,1.06
+2025-12-24 04:56:57,,,,,,,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,32.47,0.27,,No Traffic,1.01
+2025-12-24 04:56:57,,,,,,,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,61.23,3.32,,No Traffic,1.06
+2025-12-24 04:56:57,,,,,,,Airport to CBD,Airport Road,CBD,38.44,44.76,43.15,-1.61,,No Traffic,0.96
+2025-12-24 04:56:57,,,,,,,Lugbe to CBD,Lugbe,CBD,35.83,46.32,45.17,-1.15,,No Traffic,0.98
+2025-12-24 04:56:57,,,,,,,Lugbe to Garki,Lugbe,Garki,36.08,43.85,42.24,-1.61,,No Traffic,0.96
+2025-12-24 04:56:57,,,,,,,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.27,-1.23,,No Traffic,0.95
+2025-12-24 04:56:57,,,,,,,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,41.71,-3.63,,No Traffic,0.92
+2025-12-24 04:56:57,,,,,,,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,30.39,-2.62,,No Traffic,0.92
+2025-12-24 04:56:57,,,,,,,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,7.71,0.34,,No Traffic,1.05
+2025-12-24 04:56:57,,,,,,,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.8,-0.2,,No Traffic,0.95
+2025-12-24 04:56:57,,,,,,,Gudu to Garki,Gudu,Garki,8.8,8.73,9.15,0.42,,No Traffic,1.05
+2025-12-24 04:56:57,,,,,,,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.84,0.18,,No Traffic,1.01
+2025-12-24 04:56:57,,,,,,,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,11.23,-0.35,,No Traffic,0.97
+2025-12-24 04:56:57,,,,,,,Maraba to CBD,Maraba,CBD,41.72,41.16,40.96,-0.19,,No Traffic,1.0
+2025-12-24 04:56:57,,,,,,,Karshi to Kuje,Karshi,Kuje,89.9,97.14,96.19,-0.94,,No Traffic,0.99
+2025-12-24 04:56:57,,,,,,,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,44.94,-3.41,,No Traffic,0.93
+2025-12-24 04:56:57,,,,,,,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.72,0.93,,No Traffic,1.09
+2025-12-24 04:56:57,,,,,,,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,13.17,-1.15,,No Traffic,0.92
+2025-12-24 04:56:57,,,,,,,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,23.19,-0.75,,No Traffic,0.97
+2025-12-24 04:56:57,,,,,,,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,16.41,1.23,,No Traffic,1.08
+2025-12-24 04:56:57,,,,,,,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.98,1.75,,No Traffic,1.09
+2025-12-24 04:56:57,,,,,,,Bwari to CBD,Bwari,CBD,31.28,27.24,28.16,0.93,,No Traffic,1.03
+2025-12-24 04:56:57,,,,,,,Katampe to Maitama,Katampe,Maitama,8.38,9.64,10.4,0.76,,No Traffic,1.08
+2025-12-24 04:56:57,,,,,,,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.84,0.36,,No Traffic,1.06
+2025-12-24 04:56:57,,,,,,,Katampe to Jabi,Katampe,Jabi,10.29,11.64,10.55,-1.09,,No Traffic,0.91
+2025-12-24 04:56:57,,,,,,,Berger to Garki,Berger,Garki,6.65,6.33,6.11,-0.22,,No Traffic,0.97
+2025-12-24 04:56:57,,,,,,,Kado to Berger,Kado,Berger,7.22,6.98,6.33,-0.64,,No Traffic,0.91
+2025-12-24 04:56:57,,,,,,,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,23.64,-1.92,,No Traffic,0.92
+2025-12-24 04:56:57,,,,,,,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,54.57,4.74,,No Traffic,1.1
+2025-12-24 04:56:57,,,,,,,Maitama to Garki,Maitama,Garki,8.59,8.18,8.52,0.34,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Kuje to Central,Kuje,Central Area,40.56,35.02,35.47,0.45,,No Traffic,1.01
+2025-12-24 04:58:36,,,,,,,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,44.9,0.85,,No Traffic,1.02
+2025-12-24 04:58:36,,,,,,,Airport to Maitama,Airport Road,Maitama,41.36,45.21,42.64,-2.57,,No Traffic,0.94
+2025-12-24 04:58:36,,,,,,,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,8.19,0.66,,No Traffic,1.09
+2025-12-24 04:58:36,,,,,,,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,23.8,-2.34,,No Traffic,0.91
+2025-12-24 04:58:36,,,,,,,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,47.13,4.05,,No Traffic,1.09
+2025-12-24 04:58:36,,,,,,,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.49,0.42,,No Traffic,1.06
+2025-12-24 04:58:36,,,,,,,Maitama to Wuse,Maitama,Wuse,3.76,4.9,5.07,0.18,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,7.43,-0.78,,No Traffic,0.9
+2025-12-24 04:58:36,,,,,,,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.46,0.42,,No Traffic,1.06
+2025-12-24 04:58:36,,,,,,,CBD to Maitama,CBD,Maitama,4.0,5.75,5.54,-0.21,,No Traffic,0.96
+2025-12-24 04:58:36,,,,,,,Garki to CBD,Garki,CBD,3.83,6.65,6.59,-0.06,,No Traffic,0.99
+2025-12-24 04:58:36,,,,,,,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.14,0.18,,No Traffic,1.05
+2025-12-24 04:58:36,,,,,,,Area 2 to Garki,Area 2,Garki,2.47,2.88,3.02,0.14,,No Traffic,1.05
+2025-12-24 04:58:36,,,,,,,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.69,-0.39,,No Traffic,0.94
+2025-12-24 04:58:36,,,,,,,Garki to Wuse,Garki,Wuse,5.26,6.24,6.42,0.18,,No Traffic,1.03
+2025-12-24 04:58:36,,,,,,,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,16.9,-0.47,,No Traffic,0.97
+2025-12-24 04:58:36,,,,,,,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,11.05,-0.76,,No Traffic,0.94
+2025-12-24 04:58:36,,,,,,,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.19,-0.13,,No Traffic,0.99
+2025-12-24 04:58:36,,,,,,,Dutse to CBD,Dutse,CBD,8.29,9.25,9.56,0.3,,No Traffic,1.03
+2025-12-24 04:58:36,,,,,,,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.58,0.03,,No Traffic,1.01
+2025-12-24 04:58:36,,,,,,,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,13.87,0.2,,No Traffic,1.01
+2025-12-24 04:58:36,,,,,,,Jabi to CBD,Jabi,CBD,5.08,8.63,9.43,0.8,,No Traffic,1.09
+2025-12-24 04:58:36,,,,,,,Utako to Jabi,Utako,Jabi,4.62,7.79,8.49,0.7,,No Traffic,1.09
+2025-12-24 04:58:36,,,,,,,Utako to CBD,Utako,CBD,8.36,11.56,11.99,0.42,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Wuye to Jabi,Wuye,Jabi,7.59,9.03,8.25,-0.78,,No Traffic,0.91
+2025-12-24 04:58:36,,,,,,,Utako to Wuse,Utako,Wuse,4.69,7.31,7.35,0.05,,No Traffic,1.01
+2025-12-24 04:58:36,,,,,,,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.83,0.16,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Nyanya to Karu,Nyanya,Karu,10.18,15.65,16.22,0.57,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Karu to CBD,Karu,CBD,25.99,22.82,21.86,-0.96,,No Traffic,0.96
+2025-12-24 04:58:36,,,,,,,Karu to Garki,Karu,Garki,28.08,21.98,24.06,2.08,,No Traffic,1.09
+2025-12-24 04:58:36,,,,,,,Nyanya to Garki,Nyanya,Garki,26.4,25.3,23.11,-2.19,,No Traffic,0.91
+2025-12-24 04:58:36,,,,,,,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,31.61,-0.59,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,61.2,3.29,,No Traffic,1.06
+2025-12-24 04:58:36,,,,,,,Airport to CBD,Airport Road,CBD,38.44,44.76,41.05,-3.71,,No Traffic,0.92
+2025-12-24 04:58:36,,,,,,,Lugbe to CBD,Lugbe,CBD,35.83,46.32,45.47,-0.84,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Lugbe to Garki,Lugbe,Garki,36.08,43.85,44.31,0.47,,No Traffic,1.01
+2025-12-24 04:58:36,,,,,,,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,20.55,-1.95,,No Traffic,0.91
+2025-12-24 04:58:36,,,,,,,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,44.69,-0.65,,No Traffic,0.99
+2025-12-24 04:58:36,,,,,,,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,32.41,-0.6,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,7.63,0.26,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.94,-0.06,,No Traffic,0.99
+2025-12-24 04:58:36,,,,,,,Gudu to Garki,Gudu,Garki,8.8,8.73,9.44,0.71,,No Traffic,1.08
+2025-12-24 04:58:36,,,,,,,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,14.17,0.51,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,11.85,0.26,,No Traffic,1.02
+2025-12-24 04:58:36,,,,,,,Maraba to CBD,Maraba,CBD,41.72,41.16,39.64,-1.51,,No Traffic,0.96
+2025-12-24 04:58:36,,,,,,,Karshi to Kuje,Karshi,Kuje,89.9,97.14,89.3,-7.84,,No Traffic,0.92
+2025-12-24 04:58:36,,,,,,,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,51.77,3.42,,No Traffic,1.07
+2025-12-24 04:58:36,,,,,,,Life Camp to Utako,Life Camp,Utako,7.59,9.79,9.64,-0.15,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,13.5,-0.82,,No Traffic,0.94
+2025-12-24 04:58:36,,,,,,,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,25.0,1.06,,No Traffic,1.04
+2025-12-24 04:58:36,,,,,,,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,15.23,0.05,,No Traffic,1.0
+2025-12-24 04:58:36,,,,,,,Bwari to Mpape,Bwari,Mpape,10.62,19.23,18.84,-0.39,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Bwari to CBD,Bwari,CBD,31.28,27.24,26.3,-0.94,,No Traffic,0.97
+2025-12-24 04:58:36,,,,,,,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.48,-0.16,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.46,-0.02,,No Traffic,1.0
+2025-12-24 04:58:36,,,,,,,Katampe to Jabi,Katampe,Jabi,10.29,11.64,11.08,-0.56,,No Traffic,0.95
+2025-12-24 04:58:36,,,,,,,Berger to Garki,Berger,Garki,6.65,6.33,6.25,-0.07,,No Traffic,0.99
+2025-12-24 04:58:36,,,,,,,Kado to Berger,Kado,Berger,7.22,6.98,6.36,-0.61,,No Traffic,0.91
+2025-12-24 04:58:36,,,,,,,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,24.98,-0.58,,No Traffic,0.98
+2025-12-24 04:58:36,,,,,,,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,46.77,-3.06,,No Traffic,0.94
+2025-12-24 04:58:36,,,,,,,Maitama to Garki,Maitama,Garki,8.59,8.18,8.33,0.16,,No Traffic,1.02
+2025-12-24 04:58:36,,,,,,,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,10.1,0.2,,No Traffic,1.02
+2025-12-24 05:11:10,,,,,,,Kuje to Central,Kuje,Central Area,40.56,35.02,37.23,2.21,,No Traffic,1.06
+2025-12-24 05:11:10,,,,,,,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,6.95,-0.58,,No Traffic,0.92
+2025-12-24 05:11:10,,,,,,,Airport to Maitama,Airport Road,Maitama,41.36,45.21,45.57,0.36,,No Traffic,1.01
+2025-12-24 05:11:10,,,,,,,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,23.71,-2.44,,No Traffic,0.91
+2025-12-24 05:11:10,,,,,,,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,45.23,1.18,,No Traffic,1.03
+2025-12-24 05:11:10,,,,,,,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,38.91,-4.17,,No Traffic,0.9
+2025-12-24 05:11:10,,,,,,,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.95,-0.11,,No Traffic,0.98
+2025-12-24 05:11:10,,,,,,,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.51,-0.39,,No Traffic,0.92
+2025-12-24 05:11:10,,,,,,,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.75,0.53,,No Traffic,1.06
+2025-12-24 05:11:10,,,,,,,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.62,-0.42,,No Traffic,0.94
+2025-12-24 05:11:10,,,,,,,CBD to Maitama,CBD,Maitama,4.0,5.75,5.68,-0.08,,No Traffic,0.99
+2025-12-24 05:11:10,,,,,,,Garki to CBD,Garki,CBD,3.83,6.65,7.01,0.35,,No Traffic,1.05
+2025-12-24 05:11:10,,,,,,,Area 1 to Garki,Area 1,Garki,2.99,3.96,4.35,0.38,,No Traffic,1.1
+2025-12-24 05:11:10,,,,,,,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.85,-0.03,,No Traffic,0.99
+2025-12-24 05:11:10,,,,,,,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.91,-0.16,,No Traffic,0.98
+2025-12-24 05:11:10,,,,,,,Garki to Wuse,Garki,Wuse,5.26,6.24,6.45,0.21,,No Traffic,1.03
+2025-12-24 05:11:10,,,,,,,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,18.81,1.44,,No Traffic,1.08
+2025-12-24 05:11:10,,,,,,,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,11.61,-0.2,,No Traffic,0.98
+2025-12-24 05:11:10,,,,,,,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,13.16,-1.17,,No Traffic,0.92
+2025-12-24 05:11:10,,,,,,,Dutse to CBD,Dutse,CBD,8.29,9.25,9.93,0.68,,No Traffic,1.07
+2025-12-24 05:11:10,,,,,,,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.99,0.44,,No Traffic,1.08
+2025-12-24 05:11:10,,,,,,,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,14.95,1.28,,No Traffic,1.09
+2025-12-24 05:11:10,,,,,,,Jabi to CBD,Jabi,CBD,5.08,8.63,9.47,0.84,,No Traffic,1.1
+2025-12-24 05:11:10,,,,,,,Utako to Jabi,Utako,Jabi,4.62,7.79,7.24,-0.54,,No Traffic,0.93
+2025-12-24 05:11:10,,,,,,,Utako to CBD,Utako,CBD,8.36,11.56,12.42,0.86,,No Traffic,1.07
+2025-12-24 05:11:10,,,,,,,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.92,0.9,,No Traffic,1.1
+2025-12-24 05:11:10,,,,,,,Utako to Wuse,Utako,Wuse,4.69,7.31,7.81,0.51,,No Traffic,1.07
+2025-12-24 05:11:10,,,,,,,Jabi to Wuse,Jabi,Wuse,2.23,3.67,4.01,0.34,,No Traffic,1.09
+2025-12-24 05:11:10,,,,,,,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.87,0.22,,No Traffic,1.01
+2025-12-24 05:11:10,,,,,,,Karu to CBD,Karu,CBD,25.99,22.82,21.69,-1.13,,No Traffic,0.95
+2025-12-24 05:11:10,,,,,,,Karu to Garki,Karu,Garki,28.08,21.98,19.87,-2.1,,No Traffic,0.9
+2025-12-24 05:11:10,,,,,,,Nyanya to Garki,Nyanya,Garki,26.4,25.3,25.83,0.53,,No Traffic,1.02
+2025-12-24 05:11:10,,,,,,,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,30.54,-1.65,,No Traffic,0.95
+2025-12-24 05:11:10,,,,,,,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,60.96,3.06,,No Traffic,1.05
+2025-12-24 05:11:10,,,,,,,Airport to CBD,Airport Road,CBD,38.44,44.76,46.91,2.15,,No Traffic,1.05
+2025-12-24 05:11:10,,,,,,,Lugbe to CBD,Lugbe,CBD,35.83,46.32,49.6,3.28,,No Traffic,1.07
+2025-12-24 05:11:10,,,,,,,Lugbe to Garki,Lugbe,Garki,36.08,43.85,46.39,2.54,,No Traffic,1.06
+2025-12-24 05:11:10,,,,,,,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.06,-1.44,,No Traffic,0.94
+2025-12-24 05:11:10,,,,,,,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,43.92,-1.42,,No Traffic,0.97
+2025-12-24 05:11:10,,,,,,,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,30.63,-2.39,,No Traffic,0.93
+2025-12-24 05:11:10,,,,,,,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.79,-0.57,,No Traffic,0.92
+2025-12-24 05:11:10,,,,,,,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.22,0.22,,No Traffic,1.05
+2025-12-24 05:11:10,,,,,,,Gudu to Garki,Gudu,Garki,8.8,8.73,8.86,0.13,,No Traffic,1.01
+2025-12-24 05:11:10,,,,,,,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,14.07,0.41,,No Traffic,1.03
+2025-12-24 05:11:10,,,,,,,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,11.96,0.37,,No Traffic,1.03
+2025-12-24 05:11:10,,,,,,,Maraba to CBD,Maraba,CBD,41.72,41.16,45.24,4.08,,No Traffic,1.1
+2025-12-24 05:11:10,,,,,,,Karshi to Kuje,Karshi,Kuje,89.9,97.14,103.97,6.84,,Light Traffic,1.07
+2025-12-24 05:11:10,,,,,,,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,51.26,2.91,,No Traffic,1.06
+2025-12-24 05:11:10,,,,,,,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.06,0.26,,No Traffic,1.03
+2025-12-24 05:11:10,,,,,,,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,13.58,-0.73,,No Traffic,0.95
+2025-12-24 05:11:10,,,,,,,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,24.86,0.91,,No Traffic,1.04
+2025-12-24 05:11:10,,,,,,,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,14.88,-0.3,,No Traffic,0.98
+2025-12-24 05:11:10,,,,,,,Bwari to Mpape,Bwari,Mpape,10.62,19.23,18.88,-0.35,,No Traffic,0.98
+2025-12-24 05:11:10,,,,,,,Bwari to CBD,Bwari,CBD,31.28,27.24,29.34,2.11,,No Traffic,1.08
+2025-12-24 05:11:10,,,,,,,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.7,0.06,,No Traffic,1.01
+2025-12-24 05:11:10,,,,,,,Jahi to Wuse,Jahi,Wuse,5.61,6.48,7.11,0.63,,No Traffic,1.1
+2025-12-24 05:11:10,,,,,,,Katampe to Jabi,Katampe,Jabi,10.29,11.64,10.8,-0.84,,No Traffic,0.93
+2025-12-24 05:11:10,,,,,,,Berger to Garki,Berger,Garki,6.65,6.33,6.26,-0.07,,No Traffic,0.99
+2025-12-24 05:11:10,,,,,,,Kado to Berger,Kado,Berger,7.22,6.98,6.93,-0.05,,No Traffic,0.99
+2025-12-24 05:11:10,,,,,,,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,26.58,1.02,,No Traffic,1.04
+2025-12-24 05:11:10,,,,,,,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,50.52,0.69,,No Traffic,1.01
+2025-12-24 05:11:10,,,,,,,Maitama to Garki,Maitama,Garki,8.59,8.18,8.69,0.51,,No Traffic,1.06
+2025-12-24 05:11:10,,,,,,,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,10.56,0.67,,No Traffic,1.07
+2025-12-24 05:12:03,,,,,,,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,8.22,0.69,,No Traffic,1.09
+2025-12-24 05:12:03,,,,,,,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,45.94,1.88,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,28.12,1.98,,No Traffic,1.08
+2025-12-24 05:12:03,,,,,,,Airport to Maitama,Airport Road,Maitama,41.36,45.21,41.78,-3.43,,No Traffic,0.92
+2025-12-24 05:12:03,,,,,,,Kuje to Central,Kuje,Central Area,40.56,35.02,37.41,2.39,,No Traffic,1.07
+2025-12-24 05:12:03,,,,,,,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,46.02,2.94,,No Traffic,1.07
+2025-12-24 05:12:03,,,,,,,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.58,0.51,,No Traffic,1.07
+2025-12-24 05:12:03,,,,,,,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.95,0.05,,No Traffic,1.01
+2025-12-24 05:12:03,,,,,,,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.36,-0.68,,No Traffic,0.9
+2025-12-24 05:12:03,,,,,,,CBD to Maitama,CBD,Maitama,4.0,5.75,5.81,0.06,,No Traffic,1.01
+2025-12-24 05:12:03,,,,,,,Garki to CBD,Garki,CBD,3.83,6.65,6.88,0.23,,No Traffic,1.03
+2025-12-24 05:12:03,,,,,,,Area 1 to Garki,Area 1,Garki,2.99,3.96,3.75,-0.21,,No Traffic,0.95
+2025-12-24 05:12:03,,,,,,,Area 2 to Garki,Area 2,Garki,2.47,2.88,3.01,0.12,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Area 3 to CBD,Area 3,CBD,3.56,7.08,7.42,0.34,,No Traffic,1.05
+2025-12-24 05:12:03,,,,,,,Garki to Wuse,Garki,Wuse,5.26,6.24,6.4,0.16,,No Traffic,1.03
+2025-12-24 05:12:03,,,,,,,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,18.69,1.32,,No Traffic,1.08
+2025-12-24 05:12:03,,,,,,,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,10.93,-0.88,,No Traffic,0.93
+2025-12-24 05:12:03,,,,,,,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.33,0.0,,No Traffic,1.0
+2025-12-24 05:12:03,,,,,,,Dutse to CBD,Dutse,CBD,8.29,9.25,9.06,-0.2,,No Traffic,0.98
+2025-12-24 05:12:03,,,,,,,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.5,-0.06,,No Traffic,0.99
+2025-12-24 05:12:03,,,,,,,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,14.43,0.75,,No Traffic,1.06
+2025-12-24 05:12:03,,,,,,,Jabi to CBD,Jabi,CBD,5.08,8.63,8.98,0.35,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Utako to Jabi,Utako,Jabi,4.62,7.79,8.38,0.6,,No Traffic,1.08
+2025-12-24 05:12:03,,,,,,,Utako to CBD,Utako,CBD,8.36,11.56,10.46,-1.11,,No Traffic,0.9
+2025-12-24 05:12:03,,,,,,,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.35,0.33,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Utako to Wuse,Utako,Wuse,4.69,7.31,6.77,-0.54,,No Traffic,0.93
+2025-12-24 05:12:03,,,,,,,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.54,-0.13,,No Traffic,0.96
+2025-12-24 05:12:03,,,,,,,Nyanya to Karu,Nyanya,Karu,10.18,15.65,14.31,-1.34,,No Traffic,0.91
+2025-12-24 05:12:03,,,,,,,Karu to CBD,Karu,CBD,25.99,22.82,21.65,-1.17,,No Traffic,0.95
+2025-12-24 05:12:03,,,,,,,Karu to Garki,Karu,Garki,28.08,21.98,23.94,1.97,,No Traffic,1.09
+2025-12-24 05:12:03,,,,,,,Nyanya to Garki,Nyanya,Garki,26.4,25.3,27.29,1.99,,No Traffic,1.08
+2025-12-24 05:12:03,,,,,,,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,30.31,-1.89,,No Traffic,0.94
+2025-12-24 05:12:03,,,,,,,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,52.38,-5.52,,No Traffic,0.9
+2025-12-24 05:12:03,,,,,,,Airport to CBD,Airport Road,CBD,38.44,44.76,44.53,-0.22,,No Traffic,0.99
+2025-12-24 05:12:03,,,,,,,Lugbe to CBD,Lugbe,CBD,35.83,46.32,43.57,-2.75,,No Traffic,0.94
+2025-12-24 05:12:03,,,,,,,Lugbe to Garki,Lugbe,Garki,36.08,43.85,44.54,0.7,,No Traffic,1.02
+2025-12-24 05:12:03,,,,,,,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,23.56,1.06,,No Traffic,1.05
+2025-12-24 05:12:03,,,,,,,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,44.16,-1.18,,No Traffic,0.97
+2025-12-24 05:12:03,,,,,,,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,29.72,-3.3,,No Traffic,0.9
+2025-12-24 05:12:03,,,,,,,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.95,-0.42,,No Traffic,0.94
+2025-12-24 05:12:03,,,,,,,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.89,-0.11,,No Traffic,0.97
+2025-12-24 05:12:03,,,,,,,Gudu to Garki,Gudu,Garki,8.8,8.73,8.26,-0.48,,No Traffic,0.95
+2025-12-24 05:12:03,,,,,,,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,14.27,0.61,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,12.05,0.47,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Maraba to CBD,Maraba,CBD,41.72,41.16,40.35,-0.81,,No Traffic,0.98
+2025-12-24 05:12:03,,,,,,,Karshi to Kuje,Karshi,Kuje,89.9,97.14,88.69,-8.45,,No Traffic,0.91
+2025-12-24 05:12:03,,,,,,,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,46.24,-2.1,,No Traffic,0.96
+2025-12-24 05:12:03,,,,,,,Life Camp to Utako,Life Camp,Utako,7.59,9.79,9.54,-0.25,,No Traffic,0.97
+2025-12-24 05:12:03,,,,,,,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.1,0.78,,No Traffic,1.05
+2025-12-24 05:12:03,,,,,,,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,25.92,1.98,,No Traffic,1.08
+2025-12-24 05:12:03,,,,,,,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,16.53,1.35,,No Traffic,1.09
+2025-12-24 05:12:03,,,,,,,Bwari to Mpape,Bwari,Mpape,10.62,19.23,19.76,0.53,,No Traffic,1.03
+2025-12-24 05:12:03,,,,,,,Bwari to CBD,Bwari,CBD,31.28,27.24,27.32,0.08,,No Traffic,1.0
+2025-12-24 05:12:03,,,,,,,Katampe to Maitama,Katampe,Maitama,8.38,9.64,10.35,0.71,,No Traffic,1.07
+2025-12-24 05:12:03,,,,,,,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.29,-0.19,,No Traffic,0.97
+2025-12-24 05:12:03,,,,,,,Katampe to Jabi,Katampe,Jabi,10.29,11.64,11.44,-0.2,,No Traffic,0.98
+2025-12-24 05:12:03,,,,,,,Berger to Garki,Berger,Garki,6.65,6.33,6.14,-0.18,,No Traffic,0.97
+2025-12-24 05:12:03,,,,,,,Kado to Berger,Kado,Berger,7.22,6.98,7.4,0.43,,No Traffic,1.06
+2025-12-24 05:12:03,,,,,,,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,27.85,2.29,,No Traffic,1.09
+2025-12-24 05:12:03,,,,,,,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,52.85,3.03,,No Traffic,1.06
+2025-12-24 05:12:03,,,,,,,Maitama to Garki,Maitama,Garki,8.59,8.18,8.5,0.33,,No Traffic,1.04
+2025-12-24 05:12:03,,,,,,,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.5,-0.4,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.21,-0.31,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,40.54,-3.52,,No Traffic,0.92
+2025-12-24 05:21:15,,,,,,,Airport to Maitama,Airport Road,Maitama,41.36,45.21,43.58,-1.62,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,27.97,1.83,,No Traffic,1.07
+2025-12-24 05:21:15,,,,,,,Kuje to Central,Kuje,Central Area,40.56,35.02,32.19,-2.83,,No Traffic,0.92
+2025-12-24 05:21:15,,,,,,,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,39.57,-3.51,,No Traffic,0.92
+2025-12-24 05:21:15,,,,,,,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,7.06,-0.01,,No Traffic,1.0
+2025-12-24 05:21:15,,,,,,,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.87,-0.02,,No Traffic,1.0
+2025-12-24 05:21:15,,,,,,,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,7.93,-0.29,,No Traffic,0.97
+2025-12-24 05:21:15,,,,,,,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,7.04,-0.0,,No Traffic,1.0
+2025-12-24 05:21:15,,,,,,,CBD to Maitama,CBD,Maitama,4.0,5.75,6.29,0.53,,No Traffic,1.09
+2025-12-24 05:21:15,,,,,,,Garki to CBD,Garki,CBD,3.83,6.65,7.24,0.59,,No Traffic,1.09
+2025-12-24 05:21:15,,,,,,,Area 1 to Garki,Area 1,Garki,2.99,3.96,3.82,-0.14,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.71,-0.18,,No Traffic,0.94
+2025-12-24 05:21:15,,,,,,,Area 3 to CBD,Area 3,CBD,3.56,7.08,7.12,0.04,,No Traffic,1.01
+2025-12-24 05:21:15,,,,,,,Garki to Wuse,Garki,Wuse,5.26,6.24,5.73,-0.51,,No Traffic,0.92
+2025-12-24 05:21:15,,,,,,,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,18.72,1.35,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,10.66,-1.15,,No Traffic,0.9
+2025-12-24 05:21:15,,,,,,,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,14.26,-0.06,,No Traffic,1.0
+2025-12-24 05:21:15,,,,,,,Dutse to CBD,Dutse,CBD,8.29,9.25,9.21,-0.04,,No Traffic,1.0
+2025-12-24 05:21:15,,,,,,,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.95,0.4,,No Traffic,1.07
+2025-12-24 05:21:15,,,,,,,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,14.81,1.14,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Jabi to CBD,Jabi,CBD,5.08,8.63,8.43,-0.21,,No Traffic,0.98
+2025-12-24 05:21:15,,,,,,,Utako to Jabi,Utako,Jabi,4.62,7.79,7.43,-0.35,,No Traffic,0.95
+2025-12-24 05:21:15,,,,,,,Utako to CBD,Utako,CBD,8.36,11.56,12.69,1.13,,No Traffic,1.1
+2025-12-24 05:21:15,,,,,,,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.71,0.68,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Utako to Wuse,Utako,Wuse,4.69,7.31,7.07,-0.24,,No Traffic,0.97
+2025-12-24 05:21:15,,,,,,,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.39,-0.28,,No Traffic,0.92
+2025-12-24 05:21:15,,,,,,,Nyanya to Karu,Nyanya,Karu,10.18,15.65,16.56,0.92,,No Traffic,1.06
+2025-12-24 05:21:15,,,,,,,Karu to CBD,Karu,CBD,25.99,22.82,21.33,-1.49,,No Traffic,0.93
+2025-12-24 05:21:15,,,,,,,Karu to Garki,Karu,Garki,28.08,21.98,21.03,-0.95,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Nyanya to Garki,Nyanya,Garki,26.4,25.3,23.79,-1.51,,No Traffic,0.94
+2025-12-24 05:21:15,,,,,,,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,29.69,-2.5,,No Traffic,0.92
+2025-12-24 05:21:15,,,,,,,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,61.67,3.76,,No Traffic,1.06
+2025-12-24 05:21:15,,,,,,,Airport to CBD,Airport Road,CBD,38.44,44.76,42.85,-1.91,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Lugbe to CBD,Lugbe,CBD,35.83,46.32,42.11,-4.2,,No Traffic,0.91
+2025-12-24 05:21:15,,,,,,,Lugbe to Garki,Lugbe,Garki,36.08,43.85,47.56,3.71,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,21.68,-0.82,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,48.84,3.5,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,33.63,0.61,,No Traffic,1.02
+2025-12-24 05:21:15,,,,,,,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.7,-0.67,,No Traffic,0.91
+2025-12-24 05:21:15,,,,,,,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,4.36,0.36,,No Traffic,1.09
+2025-12-24 05:21:15,,,,,,,Gudu to Garki,Gudu,Garki,8.8,8.73,9.55,0.82,,No Traffic,1.09
+2025-12-24 05:21:15,,,,,,,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,14.69,1.03,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,11.19,-0.4,,No Traffic,0.97
+2025-12-24 05:21:15,,,,,,,Maraba to CBD,Maraba,CBD,41.72,41.16,37.51,-3.64,,No Traffic,0.91
+2025-12-24 05:21:15,,,,,,,Karshi to Kuje,Karshi,Kuje,89.9,97.14,98.53,1.39,,No Traffic,1.01
+2025-12-24 05:21:15,,,,,,,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,50.32,1.97,,No Traffic,1.04
+2025-12-24 05:21:15,,,,,,,Life Camp to Utako,Life Camp,Utako,7.59,9.79,10.47,0.68,,No Traffic,1.07
+2025-12-24 05:21:15,,,,,,,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.51,1.19,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,23.07,-0.87,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,16.17,1.0,,No Traffic,1.07
+2025-12-24 05:21:15,,,,,,,Bwari to Mpape,Bwari,Mpape,10.62,19.23,20.83,1.6,,No Traffic,1.08
+2025-12-24 05:21:15,,,,,,,Bwari to CBD,Bwari,CBD,31.28,27.24,28.71,1.47,,No Traffic,1.05
+2025-12-24 05:21:15,,,,,,,Katampe to Maitama,Katampe,Maitama,8.38,9.64,10.3,0.66,,No Traffic,1.07
+2025-12-24 05:21:15,,,,,,,Jahi to Wuse,Jahi,Wuse,5.61,6.48,6.15,-0.33,,No Traffic,0.95
+2025-12-24 05:21:15,,,,,,,Katampe to Jabi,Katampe,Jabi,10.29,11.64,12.7,1.06,,No Traffic,1.09
+2025-12-24 05:21:15,,,,,,,Berger to Garki,Berger,Garki,6.65,6.33,6.36,0.04,,No Traffic,1.01
+2025-12-24 05:21:15,,,,,,,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,24.53,-1.03,,No Traffic,0.96
+2025-12-24 05:21:15,,,,,,,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,53.27,3.44,,No Traffic,1.07
+2025-12-24 05:21:15,,,,,,,Maitama to Garki,Maitama,Garki,8.59,8.18,8.68,0.51,,No Traffic,1.06
+2025-12-24 05:21:15,,,,,,,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.8,-0.09,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,Airport to Maitama,Airport Road,Maitama,41.36,45.21,47.29,2.08,,No Traffic,1.05
+2025-12-24 05:21:16,,,,,,,Lugbe to Area 1,Lugbe,Area 1,35.45,44.06,48.11,4.05,,No Traffic,1.09
+2025-12-24 05:21:16,,,,,,,Kuje to Central,Kuje,Central Area,40.56,35.02,36.14,1.12,,No Traffic,1.03
+2025-12-24 05:21:16,,,,,,,Nyanya to Wuse,Nyanya,Wuse 2,24.31,26.15,27.3,1.15,,No Traffic,1.04
+2025-12-24 05:21:16,,,,,,,Kubwa to CBD,Kubwa,Central Business District,4.04,7.53,7.05,-0.48,,No Traffic,0.94
+2025-12-24 05:21:16,,,,,,,Gwagwalada to City Gate,Gwagwalada,City Gate,55.09,43.08,42.11,-0.97,,No Traffic,0.98
+2025-12-24 05:21:16,,,,,,,Wuse to CBD,Wuse Market,Central Business District,3.78,7.07,6.68,-0.39,,No Traffic,0.95
+2025-12-24 05:21:16,,,,,,,Maitama to Wuse,Maitama,Wuse,3.76,4.9,4.46,-0.43,,No Traffic,0.91
+2025-12-24 05:21:16,,,,,,,Asokoro to Wuse,Asokoro,Wuse,9.11,8.22,8.83,0.61,,No Traffic,1.07
+2025-12-24 05:21:16,,,,,,,Asokoro to Maitama,Asokoro,Maitama,7.33,7.04,6.99,-0.04,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,CBD to Maitama,CBD,Maitama,4.0,5.75,5.39,-0.36,,No Traffic,0.94
+2025-12-24 05:21:16,,,,,,,Garki to CBD,Garki,CBD,3.83,6.65,6.18,-0.47,,No Traffic,0.93
+2025-12-24 05:21:16,,,,,,,Area 1 to Garki,Area 1,Garki,2.99,3.96,3.63,-0.33,,No Traffic,0.92
+2025-12-24 05:21:16,,,,,,,Area 2 to Garki,Area 2,Garki,2.47,2.88,2.82,-0.06,,No Traffic,0.98
+2025-12-24 05:21:16,,,,,,,Area 3 to CBD,Area 3,CBD,3.56,7.08,6.81,-0.26,,No Traffic,0.96
+2025-12-24 05:21:16,,,,,,,Garki to Wuse,Garki,Wuse,5.26,6.24,6.58,0.35,,No Traffic,1.06
+2025-12-24 05:21:16,,,,,,,Gwarinpa to CBD,Gwarinpa,CBD,15.93,17.37,17.14,-0.24,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,Dutse to Gwarinpa,Dutse,Gwarinpa,8.36,11.81,12.16,0.35,,No Traffic,1.03
+2025-12-24 05:21:16,,,,,,,Kubwa to Gwarinpa,Kubwa,Gwarinpa,14.24,14.32,13.87,-0.45,,No Traffic,0.97
+2025-12-24 05:21:16,,,,,,,Dutse to CBD,Dutse,CBD,8.29,9.25,9.31,0.06,,No Traffic,1.01
+2025-12-24 05:21:16,,,,,,,Dutse to Wuse,Dutse,Wuse,5.43,5.55,5.86,0.31,,No Traffic,1.06
+2025-12-24 05:21:16,,,,,,,Gwarinpa to Wuse,Gwarinpa,Wuse,13.08,13.67,12.68,-1.0,,No Traffic,0.93
+2025-12-24 05:21:16,,,,,,,Jabi to CBD,Jabi,CBD,5.08,8.63,8.47,-0.16,,No Traffic,0.98
+2025-12-24 05:21:16,,,,,,,Utako to Jabi,Utako,Jabi,4.62,7.79,7.27,-0.52,,No Traffic,0.93
+2025-12-24 05:21:16,,,,,,,Utako to CBD,Utako,CBD,8.36,11.56,10.9,-0.66,,No Traffic,0.94
+2025-12-24 05:21:16,,,,,,,Wuye to Jabi,Wuye,Jabi,7.59,9.03,9.52,0.49,,No Traffic,1.05
+2025-12-24 05:21:16,,,,,,,Utako to Wuse,Utako,Wuse,4.69,7.31,6.58,-0.73,,No Traffic,0.9
+2025-12-24 05:21:16,,,,,,,Jabi to Wuse,Jabi,Wuse,2.23,3.67,3.36,-0.31,,No Traffic,0.92
+2025-12-24 05:21:16,,,,,,,Nyanya to Karu,Nyanya,Karu,10.18,15.65,15.54,-0.11,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,Karu to CBD,Karu,CBD,25.99,22.82,22.05,-0.77,,No Traffic,0.97
+2025-12-24 05:21:16,,,,,,,Karu to Garki,Karu,Garki,28.08,21.98,22.26,0.28,,No Traffic,1.01
+2025-12-24 05:21:16,,,,,,,Nyanya to Garki,Nyanya,Garki,26.4,25.3,26.08,0.78,,No Traffic,1.03
+2025-12-24 05:21:16,,,,,,,Maraba to Nyanya,Maraba,Nyanya,24.45,32.2,34.31,2.11,,No Traffic,1.07
+2025-12-24 05:21:16,,,,,,,Lugbe to Airport,Lugbe,Airport Road,35.33,57.9,60.26,2.36,,No Traffic,1.04
+2025-12-24 05:21:16,,,,,,,Airport to CBD,Airport Road,CBD,38.44,44.76,46.28,1.52,,No Traffic,1.03
+2025-12-24 05:21:16,,,,,,,Lugbe to CBD,Lugbe,CBD,35.83,46.32,48.46,2.14,,No Traffic,1.05
+2025-12-24 05:21:16,,,,,,,Lugbe to Garki,Lugbe,Garki,36.08,43.85,47.56,3.71,,No Traffic,1.08
+2025-12-24 05:21:16,,,,,,,Kuje to Gwagwalada,Kuje,Gwagwalada,20.31,22.5,23.61,1.1,,No Traffic,1.05
+2025-12-24 05:21:16,,,,,,,Gwagwalada to CBD,Gwagwalada,CBD,55.46,45.34,44.59,-0.75,,No Traffic,0.98
+2025-12-24 05:21:16,,,,,,,Kuje to Lugbe,Kuje,Lugbe,19.91,33.02,31.51,-1.5,,No Traffic,0.95
+2025-12-24 05:21:16,,,,,,,Apo to Lokogoma,Apo,Lokogoma,3.13,4.0,3.67,-0.33,,No Traffic,0.92
+2025-12-24 05:21:16,,,,,,,Gudu to Garki,Gudu,Garki,8.8,8.73,7.95,-0.79,,No Traffic,0.91
+2025-12-24 05:21:16,,,,,,,Lokogoma to CBD,Lokogoma,CBD,11.38,13.66,13.42,-0.24,,No Traffic,0.98
+2025-12-24 05:21:16,,,,,,,Galadimawa to Garki,Galadimawa,Garki,9.3,11.59,10.56,-1.02,,No Traffic,0.91
+2025-12-24 05:21:16,,,,,,,Lokogoma to Garki,Lokogoma,Garki,6.51,7.37,6.69,-0.68,,No Traffic,0.91
+2025-12-24 05:21:16,,,,,,,Maraba to CBD,Maraba,CBD,41.72,41.16,42.81,1.65,,No Traffic,1.04
+2025-12-24 05:21:16,,,,,,,Karshi to Kuje,Karshi,Kuje,89.9,97.14,91.09,-6.05,,No Traffic,0.94
+2025-12-24 05:21:16,,,,,,,Masaka to Lugbe,Masaka,Lugbe,30.23,48.35,48.39,0.04,,No Traffic,1.0
+2025-12-24 05:21:16,,,,,,,Life Camp to Utako,Life Camp,Utako,7.59,9.79,9.83,0.03,,No Traffic,1.0
+2025-12-24 05:21:16,,,,,,,Jikwoyi to Garki,Jikwoyi,Garki,15.16,14.32,15.12,0.8,,No Traffic,1.06
+2025-12-24 05:21:16,,,,,,,Kurudu to Nyanya,Kurudu,Nyanya,15.6,23.94,23.0,-0.94,,No Traffic,0.96
+2025-12-24 05:21:16,,,,,,,Mpape to Gwarinpa,Mpape,Gwarinpa,11.3,15.18,14.06,-1.12,,No Traffic,0.93
+2025-12-24 05:21:16,,,,,,,Bwari to Mpape,Bwari,Mpape,10.62,19.23,19.01,-0.22,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,Bwari to CBD,Bwari,CBD,31.28,27.24,27.42,0.19,,No Traffic,1.01
+2025-12-24 05:21:16,,,,,,,Katampe to Maitama,Katampe,Maitama,8.38,9.64,9.45,-0.19,,No Traffic,0.98
+2025-12-24 05:21:16,,,,,,,Jahi to Wuse,Jahi,Wuse,5.61,6.48,7.1,0.62,,No Traffic,1.1
+2025-12-24 05:21:16,,,,,,,Katampe to Jabi,Katampe,Jabi,10.29,11.64,11.49,-0.15,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,Berger to Garki,Berger,Garki,6.65,6.33,6.51,0.19,,No Traffic,1.03
+2025-12-24 05:21:16,,,,,,,Kado to Berger,Kado,Berger,7.22,6.98,7.38,0.4,,No Traffic,1.06
+2025-12-24 05:21:16,,,,,,,Kubwa to Nyanya,Kubwa,Nyanya,25.58,25.56,24.65,-0.91,,No Traffic,0.96
+2025-12-24 05:21:16,,,,,,,Gwarinpa to Lugbe,Gwarinpa,Lugbe,34.88,49.83,50.53,0.7,,No Traffic,1.01
+2025-12-24 05:21:16,,,,,,,Maitama to Garki,Maitama,Garki,8.59,8.18,8.09,-0.08,,No Traffic,0.99
+2025-12-24 05:21:16,,,,,,,Jabi to Asokoro,Jabi,Asokoro,10.03,9.9,9.37,-0.52,,No Traffic,0.95

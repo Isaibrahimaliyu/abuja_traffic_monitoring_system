@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Traffic Data Report</title>
+    <style>
+        body { font-family: Consolas, monospace; background: #f8f9fa; padding: 20px; }
+        .box { background: white; padding: 20px; border-radius: 6px; }
+        h2 { margin-top: 0; }
+        pre { background: #000; color: #0f0; padding: 15px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+
+<div class="box">
+<h2>ABUJA TRAFFIC DATA REPORT</h2>
+
+<pre>
+Total Records: {{ stats.total_records }}
+Date Range: {{ stats.date_range }}
+Unique Routes: {{ stats.unique_routes }}
+
+Traffic Status Distribution:
+{% for k, v in stats.traffic_distribution.items() %}
+{{ k }} : {{ v }}
+{% endfor %}
+
+Average Delay by Hour:
+{% for h, d in stats.avg_delay_by_hour.items() %}
+Hour {{ h }} : {{ d }} minutes
+{% endfor %}
+</pre>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abuja Route Directory</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h2><i class="bi bi-map"></i> Abuja Route Network</h2>
+            <a href="/data" class="btn btn-primary">View Detailed Cards</a>
+        </div>
+
+        <div class="card shadow-sm border-0">
+            <div class="card-body p-0">
+                <table class="table table-hover mb-0">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Route Name</th>
+                            <th>Origin</th>
+                            <th>Destination</th>
+                            <th>Current Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for route in routes %}
+                        <tr>
+                            <td class="fw-bold">{{ route.name }}</td>
+                            <td>{{ route.origin }}</td>
+                            <td>{{ route.destination }}</td>
+                            <td>
+                                {% if status_map[route.name] %}
+                                    <span class="badge {% if status_map[route.name] == 'Heavy Traffic' %}bg-danger{% else %}bg-success{% endif %}">
+                                        {{ status_map[route.name] }}
+                                    </span>
+                                {% else %}
+                                    <span class="badge bg-secondary">No Data Today</span>
+                                {% endif %}
+                            </td>
+                            <td>
+                                <a href="/data?route={{ route.name }}" class="btn btn-sm btn-outline-primary">
+                                    Analyze
+                                </a>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

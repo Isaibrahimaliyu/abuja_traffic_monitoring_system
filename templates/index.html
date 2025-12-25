@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abuja Traffic Monitoring System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #0b5ed7;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 30px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 15px;
+            background: #0b5ed7;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .btn:hover {
+            background: #084298;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #e9ecef;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Abuja Traffic Monitoring System</h1>
+    <p>Flask-based Traffic Data Collection & Analysis</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Project Overview</h2>
+        <p>
+            This system collects and analyzes traffic data for major routes
+            within Abuja using OpenStreetMap (OSRM) routing services.
+            Traffic conditions are simulated based on time and day.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Available Actions</h2>
+        <a href="/collect" class="btn">Collect Traffic Data</a>
+        <a href="/data" class="btn">View Traffic Data </a>
+        <a href="/routes" class="btn">View Routes</a>
+        <a href="/download" class="btn">Download CSV</a>
+    </div>
+
+    <div class="card">
+        <h2>System Information</h2>
+        <ul>
+            <li>Total Routes Monitored: <strong>{{ routes }}</strong></li>
+            <li>Data Source: OpenStreetMap (OSRM)</li>
+            <li>Framework: Flask (Python)</li>
+        </ul>
+    </div>
+
+</div>
+
+<footer>
+    <p>SIWES Project | Abuja Traffic Monitoring System</p>
+</footer>
+
+</body>
+</html>

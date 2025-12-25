@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abuja Live Traffic Detail</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <style>
+        body { background-color: #f4f7f9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        .filter-section { background: white; border-bottom: 2px solid #e9ecef; position: sticky; top: 0; z-index: 1000; padding: 15px 0; }
+        .route-card { border: none; border-radius: 12px; transition: all 0.3s ease; }
+        .route-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important; }
+        .status-indicator { width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px; }
+        .hidden-card { display: none; }
+        .location-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: #6c757d; }
+        .location-name { font-size: 1.25rem; font-weight: 700; color: #212529; }
+        .arrow-icon { color: #0d6efd; font-size: 1.5rem; }
+    </style>
+</head>
+<body>
+
+<div class="filter-section shadow-sm">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-4">
+                <h4 class="mb-0 text-primary"><i class="bi bi-geo-alt-fill"></i> Abuja Traffic</h4>
+            </div>
+            <div class="col-md-8">
+                <div class="d-flex gap-2">
+                    <select id="routeFilter" class="form-select border-primary" onchange="filterRoutes()">
+                        <option value="all">All Abuja Routes</option>
+                        {% for name in route_names %}
+                        <option value="{{ name }}">{{ name }}</option>
+                        {% endfor %}
+                    </select>
+                    <a href="/collect" class="btn btn-primary text-nowrap"><i class="bi bi-arrow-clockwise"></i> Refresh Data</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row" id="trafficContainer">
+        {% for record in records %}
+        <div class="col-lg-6 mb-4 traffic-item" data-route="{{ record.route_name }}">
+            <div class="card route-card shadow-sm h-100">
+                <div class="card-body p-4">
+                    <div class="d-flex justify-content-between align-items-center mb-4">
+                        <span class="badge rounded-pill 
+                            {% if record.traffic_status == 'Heavy Traffic' %}bg-danger
+                            {% elif record.traffic_status == 'Moderate Traffic' %}bg-warning text-dark
+                            {% else %}bg-success{% endif %}">
+                            <span class="status-indicator bg-white"></span>{{ record.traffic_status }}
+                        </span>
+                        <small class="text-muted"><i class="bi bi-clock"></i> {{ record.timestamp }}</small>
+                    </div>
+
+                    <div class="row align-items-center text-center text-md-start mb-4">
+                        <div class="col-md-5">
+                            <div class="location-label">Origin</div>
+                            <div class="location-name">{{ record.origin }}</div>
+                        </div>
+                        <div class="col-md-2 my-2 my-md-0 text-center">
+                            <i class="bi bi-arrow-right-circle-fill arrow-icon"></i>
+                        </div>
+                        <div class="col-md-5 text-md-end">
+                            <div class="location-label">Destination</div>
+                            <div class="location-name">{{ record.destination }}</div>
+                        </div>
+                    </div>
+
+                    <div class="row g-0 border-top pt-3 mt-2 text-center">
+                        <div class="col-4 border-end">
+                            <div class="small text-muted">Distance</div>
+                            <div class="fw-bold text-dark">{{ record.distance_km }} km</div>
+                        </div>
+                        <div class="col-4 border-end">
+                            <div class="small text-muted">Time</div>
+                            <div class="fw-bold text-dark">{{ record.duration_in_traffic_minutes }}m</div>
+                        </div>
+                        <div class="col-4">
+                            <div class="small text-muted">Delay</div>
+                            <div class="fw-bold text-danger">+{{ record.delay_minutes }}m</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+    function filterRoutes() {
+        const selected = document.getElementById('routeFilter').value;
+        const items = document.getElementsByClassName('traffic-item');
+        for (let item of items) {
+            if (selected === "all" || item.getAttribute('data-route') === selected) {
+                item.classList.remove('hidden-card');
+            } else {
+                item.classList.add('hidden-card');
+            }
+        }
+    }
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
