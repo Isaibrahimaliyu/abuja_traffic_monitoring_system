@@ -1,0 +1,6 @@
+Flask 
+pandas 
+flask-apscheduler 
+requests 
+gunicorn 
+gunicorn 
