@@ -206,70 +206,54 @@ def report():
     if not stats: return "No data available yet."
     return render_template("report.html", stats=stats)
 
-@app.route("/collect-ui")
-def collect_ui():
-    return render_template_string("""
-        <div class="container text-center mt-5">
-            <div id="status">
-                <h3><i class="bi bi-geo-fill"></i> Contacting OSRM API...</h3>
-                <p>Collecting data for {{ total }} routes. Please wait.</p>
-                <div class="spinner-border text-primary" role="status"></div>
-            </div>
-        </div>
-        <script>
-            // Automatically trigger the real collection in the background
-            fetch('/collect').then(response => response.json()).then(data => {
-                document.getElementById('status').innerHTML = 
-                    '<h3 class="text-success">Success!</h3><p>Saved ' + data.records_saved + ' records.</p>' +
-                    '<a href="/data" class="btn btn-primary">View Results</a>';
-            });
-        </script>
-    """, total=len(ABUJA_ROUTES))
+@app.route("/collect")
+def collect():
+    data = collect_traffic_data()
+    saved = save_to_csv(data)
+    return jsonify({"status": "success", "records_saved": saved})
 
 @app.route("/data", methods=["GET"])
 def data():
     if not os.path.exists(CSV_FILENAME):
         return "<h3>No data yet.</h3>", 404
 
+    # Correct file name and indentation
     df = pd.read_csv(CSV_FILENAME)
     
-    # 1. REMOVE NUMERIC ERRORS: Filter out rows where route_name is not a string
-    # This removes the -0.1 and any other numbers from your list
+    # Clean data and sort
     df = df[pd.to_numeric(df['route_name'], errors='coerce').isna()]
-    
-    # 2. Further clean: Remove any empty (NaN) route names
     df = df.dropna(subset=['route_name'])
-    
-    # Sort by timestamp
     df = df.sort_values(by='timestamp', ascending=False)
     
-    # Get unique names for the dropdown
-    route_names = sorted(df['route_name'].unique().tolist())
-    records = df.to_dict(orient="records")
+    # Keep only the latest record per route to avoid duplicates in the view
+    df_unique = df.drop_duplicates(subset=['route_name'], keep='first')
+    
+    route_names = sorted(df_unique['route_name'].unique().tolist())
+    records = df_unique.to_dict(orient="records")
     
     return render_template("traffic_view.html", records=records, route_names=route_names)
 @app.route("/routes", methods=["GET"])
 def routes():
-    # Get the base list of all routes defined in your code
-    base_routes = []
-    for r in ABUJA_ROUTES:
-        base_routes.append({
-            "name": r[2],
-            "origin": r[3],
-            "destination": r[4],
-            "coords": f"{r[0]} to {r[1]}"
-        })
-
-    # Fetch today's data to show "Live Status" on the routes page
-    today_str = datetime.now().strftime('%Y-%m-%d')
+    base_routes = [{"name": r[2], "origin": r[3], "destination": r[4]} for r in ABUJA_ROUTES]
     current_status = {}
     
     if os.path.exists(CSV_FILENAME):
         df = pd.read_csv(CSV_FILENAME)
-        # Filter for today only
-        df_today = df[df['timestamp'].str.startswith(today_str)]
-        # Get the very last status recorded for each route
-        for _, row in df_today.iterrows():
+        
+        # Convert the timestamp column to actual Python dates
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        
+        # Get today's date
+        today = datetime.now().date()
+        
+        # Filter: Only rows where the DATE part matches today
+        df_today = df[df['timestamp'].dt.date == today]
+        
+        # Get the latest status for each route
+        df_today = df_today.sort_values(by='timestamp', ascending=False)
+        status_data = df_today.drop_duplicates(subset=['route_name'], keep='first')
+        
+        for _, row in status_data.iterrows():
             current_status[row['route_name']] = row['traffic_status']
 
     return render_template("routes_directory.html", 
