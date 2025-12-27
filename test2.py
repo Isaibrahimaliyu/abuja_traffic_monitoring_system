@@ -149,17 +149,41 @@ def simulate_traffic_conditions(hour, day_of_week, base_duration_minutes):
 
 def process_route(route, current_time):
     origin, destination, route_name, origin_name, dest_name = route
-
-    # 1. Validation: Ensure we aren't processing 'ghost' routes
-    if not isinstance(route_name, str) or len(route_name) < 3:
-        return None
-
     distance_m, duration_s = get_route_info(origin, destination)
     
-    # 2. API Failure Check: Don't save if the OSRM API timed out
+    # If API fails, stop here
     if distance_m is None or duration_s is None:
         return None
 
+    # Calculate metrics
+    distance_km = round(distance_m / 1000, 2)
+    base_duration_min = duration_s / 60
+    
+    # Run the traffic simulation you already defined
+    actual_duration, multiplier = simulate_traffic_conditions(
+        current_time.hour, 
+        current_time.strftime('%A'), 
+        base_duration_min
+    )
+    
+    delay = max(0, actual_duration - base_duration_min)
+    
+    # Determine Status
+    if multiplier > 1.5: status = "Heavy Traffic"
+    elif multiplier > 1.2: status = "Moderate Traffic"
+    else: status = "Smooth Traffic"
+
+    # THIS IS THE MISSING PART: You must return the dictionary!
+    return {
+        "timestamp": current_time.strftime('%Y-%m-%d %H:%M:%S'),
+        "route_name": route_name,
+        "origin": origin_name,
+        "destination": dest_name,
+        "distance_km": distance_km,
+        "duration_in_traffic_minutes": round(actual_duration, 2),
+        "delay_minutes": round(delay, 2),
+        "traffic_status": status
+    }
     
 
 def collect_traffic_data():
