@@ -10,10 +10,10 @@ from threading import Lock
 from flask_apscheduler import APScheduler
 
 scheduler = APScheduler()
+
 # =========================
 # CONFIGURATION
 # =========================
-# Using a consistent filename variable prevents path errors
 CSV_FILENAME = 'abuja_traffic_data.csv'
 MAX_WORKERS = 5
 OSRM_BASE_URL = "https://router.project-osrm.org/route/v1/driving/"
@@ -92,9 +92,7 @@ ABUJA_ROUTES = [
 
 # =========================
 # HELPER FUNCTIONS
-from flask_apscheduler import APScheduler
-
-scheduler = APScheduler()
+# =========================
 
 def scheduled_collection():
     with app.app_context():
@@ -108,15 +106,12 @@ app.config['SCHEDULER_API_ENABLED'] = True
 scheduler.init_app(app)
 scheduler.add_job(id='traffic_job', func=scheduled_collection, trigger='interval', minutes=15)
 scheduler.start()
-# =========================
+
 def generate_statistics():
     if not os.path.exists(CSV_FILENAME):
         return None
 
-    # Fixed: Use variable instead of hardcoded absolute path
     df = pd.read_csv(CSV_FILENAME)
-    
-    # Ensure date column is treated as strings or objects for the range
     stats = {
         "total_records": len(df),
         "date_range": f"{df['timestamp'].min()} to {df['timestamp'].max()}",
@@ -149,17 +144,19 @@ def simulate_traffic_conditions(hour, day_of_week, base_duration_minutes):
 
 def process_route(route, current_time):
     origin, destination, route_name, origin_name, dest_name = route
+
+    if not isinstance(route_name, str) or len(route_name) < 3:
+        return None
+
     distance_m, duration_s = get_route_info(origin, destination)
     
-    # If API fails, stop here
     if distance_m is None or duration_s is None:
         return None
 
-    # Calculate metrics
+    # Calculate final traffic data
     distance_km = round(distance_m / 1000, 2)
     base_duration_min = duration_s / 60
     
-    # Run the traffic simulation you already defined
     actual_duration, multiplier = simulate_traffic_conditions(
         current_time.hour, 
         current_time.strftime('%A'), 
@@ -168,12 +165,11 @@ def process_route(route, current_time):
     
     delay = max(0, actual_duration - base_duration_min)
     
-    # Determine Status
+    status = "Smooth Traffic"
     if multiplier > 1.5: status = "Heavy Traffic"
     elif multiplier > 1.2: status = "Moderate Traffic"
-    else: status = "Smooth Traffic"
 
-    # THIS IS THE MISSING PART: You must return the dictionary!
+    # CRITICAL FIX: Return the dictionary so data is actually collected
     return {
         "timestamp": current_time.strftime('%Y-%m-%d %H:%M:%S'),
         "route_name": route_name,
@@ -184,7 +180,6 @@ def process_route(route, current_time):
         "delay_minutes": round(delay, 2),
         "traffic_status": status
     }
-    
 
 def collect_traffic_data():
     records = []
@@ -201,25 +196,20 @@ def save_to_csv(data_records):
         return 0
 
     df_new = pd.DataFrame(data_records)
-    today_str = datetime.now().strftime('%Y-%m-%d')
 
     with file_lock:
         if os.path.exists(CSV_FILENAME):
-            df_existing = pd.read_csv(CSV_FILENAME)
-            
-            # Keep only rows where the timestamp starts with today's date
-            df_existing = df_existing[df_existing['timestamp'].str.startswith(today_str)]
-            
-            # Combine old (today's) data with the new collection
-            df_final = pd.concat([df_existing, df_new], ignore_index=True)
-            df_final.to_csv(CSV_FILENAME, index=False)
+            # FIX: Use append mode 'a' to save all history
+            df_new.to_csv(CSV_FILENAME, mode='a', index=False, header=False)
         else:
             df_new.to_csv(CSV_FILENAME, index=False)
 
     return len(data_records)
+
 # =========================
 # FLASK ENDPOINTS
 # =========================
+
 @app.route("/")
 def home():
     return render_template("index.html", routes=len(ABUJA_ROUTES))
@@ -241,21 +231,19 @@ def data():
     if not os.path.exists(CSV_FILENAME):
         return "<h3>No data yet.</h3>", 404
 
-    # Correct file name and indentation
     df = pd.read_csv(CSV_FILENAME)
-    
-    # Clean data and sort
-    df = df[pd.to_numeric(df['route_name'], errors='coerce').isna()]
+    df['timestamp'] = pd.to_datetime(df['timestamp']) # Ensure timestamp is datetime
     df = df.dropna(subset=['route_name'])
     df = df.sort_values(by='timestamp', ascending=False)
     
-    # Keep only the latest record per route to avoid duplicates in the view
+    # Keep only the latest record per route for the live view
     df_unique = df.drop_duplicates(subset=['route_name'], keep='first')
     
     route_names = sorted(df_unique['route_name'].unique().tolist())
     records = df_unique.to_dict(orient="records")
     
     return render_template("traffic_view.html", records=records, route_names=route_names)
+
 @app.route("/routes", methods=["GET"])
 def routes():
     base_routes = [{"name": r[2], "origin": r[3], "destination": r[4]} for r in ABUJA_ROUTES]
@@ -263,17 +251,12 @@ def routes():
     
     if os.path.exists(CSV_FILENAME):
         df = pd.read_csv(CSV_FILENAME)
+        df['timestamp'] = pd.to_datetime(df['timestamp']) # Convert to datetime objects
         
-        # Convert the timestamp column to actual Python dates
-        df['timestamp'] = pd.to_datetime(df['timestamp'])
-        
-        # Get today's date
         today = datetime.now().date()
-        
-        # Filter: Only rows where the DATE part matches today
+        # FIX: Compare date objects correctly to avoid "No Data Today"
         df_today = df[df['timestamp'].dt.date == today]
         
-        # Get the latest status for each route
         df_today = df_today.sort_values(by='timestamp', ascending=False)
         status_data = df_today.drop_duplicates(subset=['route_name'], keep='first')
         
@@ -283,6 +266,7 @@ def routes():
     return render_template("routes_directory.html", 
                            routes=base_routes, 
                            status_map=current_status)
+
 @app.route("/download", methods=["GET"])
 def download():
     if not os.path.exists(CSV_FILENAME):
